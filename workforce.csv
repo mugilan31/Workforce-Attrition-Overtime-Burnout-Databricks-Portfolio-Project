@@ -1,0 +1,1241 @@
+employee_id,full_name,city,department,job_role,work_mode,hire_date,exit_date,last_promotion_years,monthly_salary_inr,overtime_hours,performance_rating,attrition_flag
+EMP-1682,Karthik Kannan,Gurugram,Engineering,Tech Lead,Hybrid,2024-08-01,,3,131000,1,5,No
+EMP-2170,Deepak Raja,Pune,Customer Support,Escalation Manager, hybrid,2025-07-04,,1,68500,0,4,No
+EMP-2169,Sneha Balaji,Bengaluru,Data & Analytics,Data Analyst,Hybrid,2019-05-20,,0,143500,5,3,No
+EMP-2029,Rohan Iyer,Pune,Engineering,Tech Lead,Remote,2022-05-16,,1,124000,31,3,No
+EMP-1791,Siddharth Rao,Bengaluru,Customer Support,Support Specialist, hybrid,2021-08-04,,2,56500,17,3,No
+EMP-2189,Pooja Sen,Chennai,Engineering,Tech Lead, onsite,2022-10-29,2026-02-23,1,145000,6,4,Yes
+EMP-1904,Vivek Prasad,Hyderabad,Customer Support,Team Lead,Onsite,2025-05-20,,2,66500,13,5,No
+EMP-1974,Deepak Hegde,Hyderabad,Engineering,QA Engineer,Remote,2020-07-02,,0,68500,10,3,No
+EMP-1494,Ananya Mehta,Chennai,Operations,Operations Executive,Onsite,2021-05-15,2026-08-12,2,41000,19,4,Yes
+EMP-1886,Rajesh Pillai,Pune,HR & Admin,HR Coordinator,Hybrid,2019-02-02,,2,75500,3,4,No
+EMP-1541,Vivek Nair,Bengaluru,Customer Support,Support Specialist,Onsite,2021-05-23,2025-12-01,1,47500,17,4,Yes
+EMP-1089,Riya Verma,Bengaluru,Operations,Operations Manager,Onsite,2020-02-15,,3,40000,6,2,No
+EMP-1866,Harish Agarwal,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2025-10-31,,0,110500,26,3,No
+EMP-1374,Karthik Subramanian,Chennai,Data & Analytics,Senior Data Analyst,Onsite,2022-06-22,,1,59000,4,3,No
+EMP-1265,Meera Joshi,Bengaluru,Customer Support,Team Lead,Onsite,2024-07-03,,2,41000,19,4,No
+EMP-1325,Kavitha Kumar,Chennai,Operations,Operations Executive,Hybrid,2024-11-08,,1,53500,34,2,No
+EMP-1329,Lakshmi Patel,Chennai, CUSTOMER SUPPORT ,Support Specialist,Hybrid,2022-11-27,,0,70500,1,4,No
+EMP-1669,Suresh Patel,Chennai,Data & Analytics,Analytics Manager,Remote,2023-10-06,,2,107500,5,3,No
+EMP-1692,Rajesh Kannan,Chennai,Operations,Process Associate,Onsite,2023-12-01,2025-11-24,1,58500,26,4,Yes
+EMP-2011,Shruti Nair,Chennai,Operations,Operations Executive,Onsite,2025-05-28,,1,58000,7,4,No
+EMP-1180,Nikhil Reddy,Bengaluru,Operations,Operations Manager,Onsite,2020-06-12,,3,71000,8,4,No
+EMP-1771,Varun Prasad,Pune, CUSTOMER SUPPORT ,Team Lead,Onsite,2022-09-08,,1,38500,11,3,No
+EMP-1354,Vidya Agarwal,Chennai,Sales,Inside Sales Rep,Onsite,2019-09-01,,2,65500,5,3,No
+EMP-1168,Priya Raman,Hyderabad,Engineering,Senior Software Engineer,Hybrid,2022-11-09,,4,116500,5,3,No
+EMP-1801,Shruti Reddy,Pune,Customer Support,Senior Support Analyst,Hybrid,2022-09-10,,2,49000,14,3,No
+EMP-2041,Arjun Menon,Chennai,Engineering,Tech Lead,Onsite,2020-11-12,,0,116000,,3,No
+EMP-BAD-1,Sanjay Sen,Bengaluru,Sales,Account Executive,Onsite,2022-05-04,,0,-5000,2,4,No
+EMP-1497,Varun Raman,Hyderabad, SALES ,Business Development Lead,Onsite,2021-07-28,,0,84500,1,1,No
+EMP-2043,Varun Mehta,Gurugram,Data & Analytics,Senior Data Analyst,Hybrid,2025-08-20,,1,138500,5,1,No
+EMP-1594,Kavitha Sharma,Gurugram,Sales,Business Development Lead,Hybrid,2021-12-17,2026-03-13,1,51000,17,4,Yes
+EMP-2150,Karthik Deshmukh,Gurugram,Customer Support,Senior Support Analyst,Hybrid,2019-08-24,,2,72500,25,4,No
+EMP-1377,Bhavna Kumar,Bengaluru,Operations,Process Associate,Hybrid,2022-07-02,,1,77000,3,3,No
+,Akash Kapoor,Hyderabad,Operations,Operations Manager,Remote,2021-09-02,,2,53500,27,3,No
+EMP-1863,Pranav Reddy,Gurugram,Operations,Operations Manager,Onsite,2025-10-28,,0,53000,,1,No
+EMP-2122,Riya Sharma,Pune,Engineering,Tech Lead,Remote,2023-01-11,,4,118000,,2,No
+EMP-1229,Kavitha Deshmukh,Hyderabad,HR & Admin,Talent Acquisition Specialist, hybrid,2025-04-01,,3,45500,18,3,No
+EMP-2103,Harish Kannan,Hyderabad,Engineering,Tech Lead,Remote,2025-08-28,,2,149000,7,5,No
+EMP-2153,Varun Subramanian,Hyderabad,Operations,Operations Manager,Onsite,2019-06-22,,0,64000,0,2,No
+EMP-1158,Bhavna Balaji,Gurugram,Engineering,Senior Software Engineer, remote,2023-06-20,,1,104500,1,3,No
+EMP-1807,Pranav Chatterjee,Hyderabad,Data & Analytics,BI Developer,Remote,2019-08-19,,4,73500,32,3,No
+EMP-1814,Sanjay Hegde,Pune,Customer Support,Team Lead,Onsite,2024-09-13,,2,71500,31,4,No
+EMP-1335,Kavitha Patel,Bengaluru,Operations,Operations Manager,Onsite,2020-02-08,,2,76000,4,1,No
+EMP-1951,Akash Sen,Bengaluru,Engineering,Software Engineer,Remote,2025-05-17,2026-07-14,0,159500,21,2,Yes
+EMP-1281,Bhavna Raman,Chennai,Data & Analytics,Senior Data Analyst,Hybrid,2020-04-02,,1,73500,12,2,No
+EMP-1558,Harish Banerjee,Bengaluru,Operations,Shift Lead,Onsite,2020-03-20,,0,73500,17,4,No
+EMP-1476,Priya Mohan,Hyderabad,Data & Analytics,BI Developer,Onsite,2024-06-22,,2,55500,6,2,No
+EMP-1532,Arjun Mehta,Chennai,HR & Admin,HR Manager,Onsite,2022-01-16,,3,93500,6,4,No
+EMP-1932,Meera Verma,Chennai,Operations,Shift Lead,Onsite,2025-02-26,,2,35500,0,4,No
+EMP-1763,Deepak Reddy,Bengaluru,Customer Support,Escalation Manager, onsite,2021-09-10,2026-06-22,2,53000,21,5,Yes
+EMP-1230,Aarav Kulkarni,Hyderabad,Engineering,Tech Lead,Hybrid,2024-04-28,,3,84500,11,4,No
+EMP-2181,Siddharth Banerjee,Gurugram,Data & Analytics,Data Analyst,Hybrid,2025-06-06,,1,122500,7,4,No
+EMP-1984,Vikram Banerjee,Pune,Operations,Shift Lead,Onsite,2024-05-15,,0,85000,36,2,No
+EMP-1528,Akash Sharma,Pune,Sales,Business Development Lead,Onsite,2024-02-15,,3,45000,17,3,No
+EMP-2060,Nikhil Kapoor,Chennai,Customer Support,Team Lead,Hybrid,2020-09-16,,1,73000,3,3,No
+EMP-1444,Varun Hegde,Bengaluru,Sales,Account Executive,Hybrid,2020-05-10,,4,74000,18,4,No
+EMP-1488,Riya Kapoor,Gurugram,Operations,Process Associate,Hybrid,2025-02-02,,0,65000,17,5,No
+EMP-1689,Kavitha Verma,Bengaluru,Engineering,QA Engineer,Hybrid,2020-06-10,,0,122000,8,4,No
+EMP-1453,Aarav Rao,Bengaluru,Operations,Operations Manager, onsite,2025-01-17,,4,43000,32,4,No
+EMP-1573,Priya Mehta,Hyderabad,Engineering,Tech Lead,Remote,2024-08-24,2026-03-22,0,95500,3,4,Yes
+EMP-1909,Neha Subramanian,Chennai,Data & Analytics,Data Analyst,Onsite,2020-12-18,2026-05-28,0,72000,3,4,Yes
+EMP-2127,Nikhil Kannan,Pune,Sales,Account Executive,Onsite,2020-10-29,,3,110000,8,3,No
+EMP-1059,Vivek Raja,Bengaluru,Sales,Inside Sales Rep,Remote,2022-11-26,,1,99500,18,3,No
+EMP-1705,Sneha Joshi,Bengaluru,Operations,Operations Manager,Onsite,2021-04-06,,1,47500,4,4,No
+EMP-1508,Swathi Kumar,Bengaluru,Operations,Process Associate,Onsite,2021-05-07,,1,58500,12,4,No
+EMP-1207,Lakshmi Deshmukh,Pune,Operations,Shift Lead,Remote,2021-07-22,,0,68500,28,5,No
+EMP-1382,Ishita Raman,Pune,Engineering,Senior Software Engineer,Hybrid,2021-06-14,,3,158500,15,3,No
+EMP-1839,Aarav Deshmukh,Pune,HR & Admin,HRBP,Onsite,2021-12-03,,1,83500,0,2,No
+EMP-1731,Sneha Pillai,Bengaluru,Engineering,Software Engineer,Remote,2022-05-26,2025-11-29,2,79000,22,3,Yes
+EMP-1502,Swathi Balaji,Bengaluru,Engineering,QA Engineer,Remote,2020-09-30,,2,82000,16,4,No
+EMP-1788,Rajesh Sen,Chennai,Operations,Process Associate,Onsite,2021-03-22,2026-08-25,2,73500,32,4,Yes
+EMP-1614,Riya Kapoor,Hyderabad,HR & Admin,HRBP,Hybrid,2024-04-12,,1,60500,20,3,No
+EMP-1946,Nikhil Verma,Bengaluru,Data & Analytics,Senior Data Analyst,Onsite,2021-12-02,,1,62500,13,4,No
+EMP-1544,Vikram Pillai,Chennai,Engineering,QA Engineer,Hybrid,2025-11-28,,3,133000,2,4,No
+EMP-1395,Harish Rao,Bengaluru,HR & Admin,Talent Acquisition Specialist,Remote,2023-05-09,,0,72000,2,2,No
+EMP-1742,Lakshmi Prasad, hyderabad ,HR & Admin,HRBP,Hybrid,2022-08-10,,3,64000,8,3,No
+EMP-2030,Karthik Sharma,Pune,Operations,Process Associate,Onsite,2020-07-16,,2,57000,2,5,No
+EMP-1268,Ishita Raman,Hyderabad,Operations,Operations Executive, onsite,2022-09-10,,0,48500,31,4,No
+EMP-1028,Vikram Rao,Hyderabad,Data & Analytics,BI Developer, hybrid,2025-03-20,,0,142000,19,5,No
+EMP-1661,Akash Kapoor,Gurugram,Engineering,Software Engineer,Hybrid,2022-07-16,,1,66000,5,3,No
+EMP-1205,Neha Banerjee, bengaluru ,HR & Admin,Talent Acquisition Specialist,Hybrid,2022-12-14,2026-06-04,2,55500,13,2,Yes
+EMP-1897,Rohan Kulkarni,Bengaluru,Data & Analytics,BI Developer,Remote,2023-12-13,,3,67500,15,3,No
+EMP-1039,Shruti Joshi,Pune,Engineering,Software Engineer,Remote,2022-01-28,,1,94500,1,4,No
+EMP-1393,Swathi Kapoor, hyderabad ,Customer Support,Team Lead,Onsite,2025-08-09,2025-12-27,1,71000,4,2,Yes
+EMP-1490,Karthik Reddy,Gurugram,HR & Admin,HR Coordinator,Hybrid,2023-09-01,,4,50500,16,2,No
+EMP-1282,Ananya Banerjee,Pune,Sales,Sales Manager,Onsite,2025-03-07,,2,83000,1,5,No
+EMP-1677,Rahul Patel,Gurugram,Engineering,QA Engineer,Hybrid,2019-05-01,,2,86500,8,4,No
+EMP-1479,Riya Iyer,Gurugram,Operations,Operations Manager,Onsite,2020-11-29,,0,79000,27,4,No
+EMP-1132,Nikhil Raman,Chennai,Data & Analytics,Analytics Manager,Remote,2021-07-29,,2,100000,2,3,No
+EMP-1545,Kavitha Singh,Hyderabad,Operations,Operations Executive,Onsite,2020-08-31,2026-08-20,2,80500,30,3,Yes
+EMP-1245,Lakshmi Pillai,Pune,Engineering,Senior Software Engineer,Hybrid,2025-01-05,,1,82000,6,1,No
+EMP-1163,Meera Krishnan, chennai ,Customer Support,Escalation Manager,Onsite,2024-04-09,,4,57500,5,3,No
+EMP-1812,Siddharth Verma,Bengaluru,Engineering,Tech Lead, hybrid,2022-07-06,,1,115500,24,2,No
+EMP-1727,Sneha Nair,Gurugram,Customer Support,Senior Support Analyst,Onsite,2020-11-10,,3,50000,12,3,No
+EMP-1017,Rohan Joshi,Gurugram,Data & Analytics,Senior Data Analyst,Hybrid,2019-10-08,,4,142000,7,3,No
+EMP-1957,Sneha Subramanian, gurugram ,Data & Analytics,Analytics Manager,Hybrid,2024-09-26,,1,60500,31,4,No
+EMP-1246,Riya Sharma,Pune,Data & Analytics,BI Developer,Hybrid,2025-12-15,,1,137000,31,2,No
+EMP-1512,Sanjay Pillai,Chennai,Customer Support,Support Specialist,Onsite,2021-08-17,,2,40500,8,3,No
+EMP-1628,Rohan Raja,Chennai,Operations,Operations Executive,Hybrid,2022-02-21,,1,68000,21,5,No
+EMP-1725,Aditi Iyer,Chennai,Data & Analytics,BI Developer,Hybrid,2019-11-14,,0,81500,7,3,No
+EMP-1108,Divya Kulkarni,Bengaluru,Sales,Sales Manager,Remote,2021-08-31,,4,89500,2,3,No
+EMP-2061,Rahul Prasad,Chennai,Sales,Account Executive,Onsite,2024-11-04,,1,119000,26,3,No
+EMP-1422,Deepak Mohan,Bengaluru,Operations,Operations Executive,Onsite,2021-06-10,,4,49500,2,1,No
+EMP-1878,Harish Singh,Bengaluru,Data & Analytics,Senior Data Analyst,Hybrid,2024-09-07,,2,123000,18,3,No
+EMP-1949,Harish Mohan,Hyderabad,Engineering,Tech Lead,Remote,2024-10-16,,1,101000,14,2,No
+EMP-1891,Shruti Iyer, pune ,Engineering,Tech Lead,Onsite,2021-12-02,2026-05-31,4,99500,25,3,Yes
+EMP-1617,Rohan Iyer,Bengaluru,Data & Analytics,Analytics Manager, hybrid,2024-07-27,,0,89000,0,3,No
+EMP-1855,Venkatesh Balaji,Chennai,Customer Support,Support Specialist,Remote,2022-05-02,2026-09-15,0,67500,14,2,Yes
+EMP-1495,Karthik Deshmukh,Bengaluru,Operations,Process Associate,Onsite,2020-11-24,2026-01-06,4,84500,19,4,Yes
+EMP-1625,Venkatesh Chatterjee,Chennai,Operations,Operations Manager,Hybrid,2023-03-13,,1,50000,16,3,No
+EMP-1750,Lakshmi Hegde,Chennai,Sales,Business Development Lead,Remote,2019-10-26,,3,86000,1,3,No
+EMP-1254,Aarav Banerjee,Chennai,Engineering,QA Engineer,Hybrid,2021-02-03,,0,146500,11,3,No
+EMP-1267,Shruti Rao,Pune,HR & Admin,Talent Acquisition Specialist,Remote,2021-04-06,,0,93000,0,4,No
+EMP-2136,Pranav Verma,Bengaluru,Engineering,QA Engineer,Remote,2023-09-25,,1,79000,12,3,No
+EMP-1463,Varun Sen,Pune,Data & Analytics,BI Developer,Hybrid,2025-06-20,2026-06-25,0,94000,13,4,Yes
+EMP-1724,Venkatesh Mohan,Bengaluru,Sales,Business Development Lead,Hybrid,2023-12-09,,3,76000,14,4,No
+EMP-1638,Vivek Pillai,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2024-03-16,,4,140000,3,3,No
+EMP-2100,Karthik Agarwal,Chennai, SALES ,Business Development Lead,Onsite,2024-02-22,,3,98000,19,4,No
+EMP-1228,Venkatesh Kapoor,Gurugram, HR & ADMIN ,HRBP,Hybrid,2020-12-18,,0,51500,2,2,No
+EMP-1590,Kavitha Joshi,Gurugram,HR & Admin,HR Manager,Onsite,2024-10-10,2026-03-12,0,81500,2,2,Yes
+EMP-1338,Suresh Krishnan, hyderabad ,Sales,Inside Sales Rep,Remote,2019-11-01,,4,97500,8,3,No
+EMP-1563,Shruti Kannan,Chennai,Operations,Operations Manager,Onsite,2025-03-25,2026-01-15,3,60500,12,4,Yes
+EMP-2118,Vikram Deshmukh,Chennai,Engineering,QA Engineer,Hybrid,2021-04-17,,3,87500,15,4,No
+EMP-1768,Siddharth Patel,Gurugram,Data & Analytics,Senior Data Analyst,Hybrid,2019-09-28,,1,141500,0,5,No
+EMP-1036,Aditi Banerjee,Pune,Engineering,Tech Lead,Hybrid,2022-01-21,,2,104000,16,4,No
+EMP-1419,Kavitha Kumar,Chennai,Data & Analytics,Data Analyst,Hybrid,2024-10-02,,1,116000,16,3,No
+EMP-1760,Gokul Banerjee,Chennai,Customer Support,Senior Support Analyst,Remote,2024-07-07,,1,65500,16,3,No
+EMP-1060,Varun Banerjee,Chennai,Engineering,QA Engineer, hybrid,2019-11-28,,1,114500,23,3,No
+EMP-1309,Priya Prasad,Pune,Sales,Business Development Lead,Hybrid,2020-04-08,,0,81500,13,4,No
+EMP-1964,Karthik Sharma,Hyderabad,Operations,Operations Executive,Remote,2022-11-07,,0,81500,26,3,No
+EMP-1920,Riya Chatterjee,Bengaluru,HR & Admin,HR Manager,Hybrid,2022-07-23,,2,54000,6,3,No
+EMP-1824,Varun Mehta,Gurugram,Operations,Process Associate,Onsite,2022-06-19,,0,64500,24,3,No
+EMP-1244,Gokul Singh,Bengaluru,Sales,Sales Manager,Hybrid,2023-12-24,,1,55500,30,2,No
+EMP-1622,Vidya Chatterjee,Chennai,Operations,Shift Lead,Onsite,2025-06-06,2026-09-12,0,62500,16,5,Yes
+EMP-1034,Nikhil Pillai,Pune,Engineering,Senior Software Engineer,Hybrid,2025-02-17,,3,158500,4,2,No
+EMP-1304,Suresh Agarwal,Bengaluru,Operations,Shift Lead,Onsite,2024-10-21,,0,71500,18,3,No
+EMP-2076,Harish Subramanian,Hyderabad,Engineering,QA Engineer,Hybrid,2025-02-21,2026-03-17,0,84500,14,3,Yes
+EMP-1858,Neha Banerjee,Chennai, DATA & ANALYTICS ,Senior Data Analyst,Hybrid,2023-10-03,,0,130500,5,3,No
+EMP-1698,Siddharth Reddy,Chennai,Operations,Process Associate,Onsite,2019-12-22,,4,35500,0,2,No
+EMP-2022,Ishita Kumar,Chennai,Customer Support,Escalation Manager,Onsite,2024-11-14,,1,37500,10,2,No
+EMP-2089,Venkatesh Prasad,Pune,Customer Support,Escalation Manager,Hybrid,2020-05-21,,0,58500,8,4,No
+EMP-1897,Rohan Kulkarni,Bengaluru,Data & Analytics,BI Developer,Remote,2023-12-13,,3,67500,15,3,No
+EMP-1277,Arjun Menon, hyderabad ,Operations,Process Associate,Hybrid,2025-03-06,,3,38500,2,5,No
+EMP-1848,Shruti Pillai,Hyderabad,Operations,Process Associate,Onsite,2022-08-06,2026-04-24,3,59500,30,3,Yes
+EMP-1413,Aarav Sharma,Chennai,Operations,Process Associate,Onsite,2020-08-30,,2,80500,24,3,No
+EMP-1458,Pranav Chatterjee,Hyderabad,Engineering,Senior Software Engineer,Hybrid,2021-08-21,,2,129000,1,3,No
+EMP-2099,Lakshmi Reddy,Hyderabad,Engineering,Software Engineer,Hybrid,2021-11-05,2026-06-18,4,124000,0,3,Yes
+EMP-1745,Varun Sharma,Pune,Customer Support,Support Specialist,Hybrid,2021-09-30,,0,44000,21,4,No
+EMP-1805,Karthik Agarwal,Bengaluru,Operations,Shift Lead,Onsite,2021-01-28,2026-01-08,2,75500,38,3,Yes
+EMP-1802,Sneha Deshmukh,Hyderabad,HR & Admin,HR Coordinator,Remote,2019-06-09,,2,65500,2,3,No
+EMP-1239,Riya Mehta,Hyderabad,Engineering,QA Engineer,Onsite,2020-08-06,,1,73500,5,4,No
+EMP-1772,Karthik Mohan,Gurugram,Data & Analytics,Senior Data Analyst,Onsite,2024-07-25,,0,118500,19,3,No
+EMP-1540,Divya Verma,Gurugram,Sales,Sales Manager,Hybrid,2025-04-09,,2,61500,0,2,No
+EMP-1498,Aditi Singh, bengaluru ,Operations,Shift Lead,Onsite,2019-12-17,,1,47500,1,2,No
+EMP-1864,Gokul Krishnan,Bengaluru,Operations,Shift Lead,Onsite,2022-09-18,,4,59500,6,5,No
+EMP-1766,Siddharth Menon,Bengaluru,Operations,Operations Manager,Onsite,2024-10-09,,0,82000,17,2,No
+EMP-1714,Rajesh Raman,Chennai,Operations,Shift Lead,Onsite,2024-04-25,,1,69500,37,3,No
+EMP-2032,Venkatesh Joshi, bengaluru ,Sales,Inside Sales Rep,Hybrid,2025-07-23,2025-12-25,1,104500,28,3,Yes
+EMP-1054,Aditi Verma,Chennai,Data & Analytics,Data Analyst,Remote,2022-12-24,,1,130500,0,3,No
+EMP-2044,Pranav Rao,Gurugram,Operations,Process Associate,Onsite,2024-04-14,,1,53500,22,3,No
+EMP-1288,Swathi Balaji,Chennai,Data & Analytics,BI Developer,Hybrid,2021-11-09,,1,85500,28,3,No
+EMP-1686,Lakshmi Kannan,Chennai,Data & Analytics,Analytics Manager,Hybrid,2025-02-22,,1,82500,16,2,No
+EMP-1143,Ananya Mehta,Bengaluru,HR & Admin,HR Coordinator,Hybrid,2025-12-19,,1,89000,3,2,No
+EMP-1024,Akash Chatterjee,Bengaluru,Data & Analytics,Data Analyst,Hybrid,2019-09-21,2026-04-15,3,108500,22,5,Yes
+EMP-2012,Akash Agarwal,Gurugram,HR & Admin,HR Coordinator,Hybrid,2023-10-31,,0,60500,20,4,No
+EMP-2026,Pooja Sen,Hyderabad,Customer Support,Senior Support Analyst,Onsite,2022-07-14,,0,53500,3,2,No
+EMP-2176,Swathi Sharma,Chennai,Sales,Sales Manager,Hybrid,2024-11-16,,3,85500,19,2,No
+EMP-1331,Vivek Kulkarni,Hyderabad,Customer Support,Escalation Manager,Onsite,2025-10-05,2026-08-06,1,57000,28,3,Yes
+EMP-1210,Ishita Agarwal,Hyderabad,HR & Admin,HR Manager,Hybrid,2021-09-16,,0,85000,6,3,No
+EMP-1252,Swathi Kumar,Chennai,Operations,Operations Executive,Remote,2019-07-25,,0,79000,22,4,No
+EMP-1043,Vidya Sen,Bengaluru,HR & Admin,HR Manager,Hybrid,2019-05-11,,1,57500,5,4,No
+EMP-1092,Ananya Balaji,Bengaluru,Customer Support,Escalation Manager,Hybrid,2021-11-12,,2,51000,11,5,No
+EMP-1136,Sanjay Kulkarni,Bengaluru,Sales,Business Development Lead,Remote,2025-11-24,,2,84000,1,3,No
+EMP-2056,Sneha Singh,Hyderabad,Customer Support,Escalation Manager,Remote,2022-12-23,,0,42500,34,3,No
+EMP-2073,Manoj Krishnan,Hyderabad,Engineering,Tech Lead,Hybrid,2019-11-14,2026-10-29,4,75500,17,3,Yes
+EMP-1606,Rahul Kapoor,Bengaluru,Operations,Operations Manager,Hybrid,2024-09-01,2026-03-19,4,51000,,4,Yes
+EMP-2025,Arjun Mohan,Hyderabad,Customer Support,Support Specialist,Onsite,2023-06-29,2026-06-08,2,50500,30,4,Yes
+EMP-1647,Divya Sharma,Pune,Operations,Process Associate,Hybrid,2021-05-05,,1,44500,0,3,No
+EMP-1621,Kavitha Agarwal,Pune,Operations,Operations Manager,Onsite,2022-02-17,,4,51000,21,4,No
+EMP-1175,Siddharth Kannan,Chennai,Engineering,Senior Software Engineer,Hybrid,2021-03-08,,2,116000,,4,No
+EMP-1027,Neha Nair,Chennai,Customer Support,Team Lead,Onsite,2020-04-07,,2,39500,19,1,No
+EMP-1058,Manoj Deshmukh,Gurugram,Engineering,Software Engineer,Onsite,2024-04-10,,3,130500,4,5,No
+EMP-1967,Varun Rao,Hyderabad,Customer Support,Escalation Manager,Hybrid,2023-02-28,,2,41000,15,4,No
+EMP-1169,Aditi Menon,Bengaluru,Data & Analytics,Analytics Manager,Remote,2025-03-23,,1,108500,7,2,No
+EMP-1057,Sneha Pillai,Chennai,Customer Support,Senior Support Analyst, remote,2021-02-01,,1,64000,27,1,No
+EMP-1106,Rahul Raja,Chennai,Engineering,Senior Software Engineer,Remote,2020-10-15,2026-10-20,2,156000,7,5,Yes
+EMP-1906,Lakshmi Patel,Bengaluru,Operations,Shift Lead,Onsite,2025-03-08,,2,82000,17,1,No
+EMP-1301,Bhavna Verma,Bengaluru,Customer Support,Support Specialist,Onsite,2021-07-04,2025-12-10,3,72000,21,4,Yes
+EMP-1708,Swathi Menon,Bengaluru,Sales,Inside Sales Rep,Hybrid,2025-03-22,,0,67000,2,3,No
+EMP-1212,Meera Sen,Gurugram,Engineering,Software Engineer,Remote,2021-12-22,2026-01-10,2,128000,25,3,Yes
+EMP-1942,Priya Krishnan,Bengaluru,Customer Support,Senior Support Analyst,Onsite,2020-06-16,2026-04-06,2,46000,20,3,Yes
+EMP-1618,Ananya Agarwal,Hyderabad,Sales,Inside Sales Rep,Onsite,2021-04-23,,2,105000,17,3,No
+EMP-1634,Gokul Kumar,Bengaluru,HR & Admin,Talent Acquisition Specialist,Hybrid,2022-11-27,,2,54000,,2,No
+EMP-2027,Divya Raja,Chennai,Engineering,Senior Software Engineer,Onsite,2022-10-31,,1,108500,19,2,No
+EMP-1859,Vikram Subramanian,Gurugram,Operations,Shift Lead,Onsite,2025-03-23,,0,56500,5,5,No
+EMP-1675,Sneha Sen,Gurugram,Operations,Shift Lead,Onsite,2023-11-24,,1,62500,8,3,No
+EMP-1662,Gokul Krishnan,Hyderabad,Customer Support,Support Specialist,Onsite,2024-04-25,,0,33500,38,2,No
+EMP-1064,Deepak Mohan,Chennai,Customer Support,Support Specialist,Hybrid,2025-05-16,,2,51000,5,3,No
+EMP-1948,Venkatesh Raman,Chennai,Customer Support,Support Specialist,Onsite,2023-09-17,,3,41500,20,2,No
+EMP-2191,Manoj Joshi,Bengaluru,Engineering,Senior Software Engineer,Onsite,2021-02-10,,4,83000,4,3,No
+EMP-1652,Rahul Raja,Pune,Engineering,Senior Software Engineer,Hybrid,2019-11-03,,3,130000,8,3,No
+EMP-2004,Karthik Raman,Hyderabad, SALES ,Inside Sales Rep,Hybrid,2023-10-23,,0,55000,11,2,No
+EMP-1511,Priya Agarwal,Bengaluru,HR & Admin,HRBP,Onsite,2020-12-30,,2,82000,18,4,No
+EMP-1171,Rajesh Iyer,Hyderabad,Operations,Operations Manager,Remote,2022-04-13,,2,63000,10,3,No
+EMP-1517,Siddharth Mohan,Hyderabad,Sales,Sales Manager,Remote,2024-05-19,,4,111500,2,3,No
+EMP-1786,Vidya Subramanian,Chennai,Engineering,QA Engineer,Remote,2024-06-25,,0,86500,,3,No
+EMP-BAD-4,Neha Deshmukh,Bengaluru,Operations,Shift Lead,Onsite,2021-01-12,2025-11-28,0,0,34,4,Yes
+EMP-1748,Nikhil Kulkarni,Hyderabad,Customer Support,Senior Support Analyst,Onsite,2022-09-07,,2,54000,10,4,No
+EMP-1372,Swathi Agarwal,Bengaluru,Operations,Shift Lead,Onsite,2020-11-01,,0,70000,33,3,No
+EMP-1360,Kavitha Raman,Bengaluru,Sales,Business Development Lead,Hybrid,2021-04-06,,2,83500,0,2,No
+EMP-1553,Sanjay Sen,Gurugram,Engineering,Software Engineer,Hybrid,2023-09-22,,3,124500,3,3,No
+EMP-2097,Karthik Hegde,Hyderabad,Engineering,Tech Lead,Hybrid,2019-09-15,,3,149500,23,3,No
+EMP-1500,Varun Menon,Hyderabad,Data & Analytics,Senior Data Analyst,Hybrid,2021-07-08,,2,118500,,4,No
+EMP-1758,Manoj Mohan,Pune,Operations,Shift Lead,Remote,2023-04-03,,1,61500,28,2,No
+EMP-1095,Ananya Kulkarni,Hyderabad,Customer Support,Team Lead,Hybrid,2021-08-31,,2,50500,19,2,No
+EMP-1795,Nikhil Sen,Chennai,Engineering,Software Engineer,Remote,2020-09-20,,3,144500,7,4,No
+EMP-1420,Ishita Kapoor,Gurugram,HR & Admin,HR Coordinator,Hybrid,2020-02-24,,1,72000,19,4,No
+EMP-1934,Lakshmi Nair,Hyderabad,Customer Support,Senior Support Analyst,Onsite,2023-10-15,,2,64500,29,4,No
+EMP-1117,Vivek Sen,Hyderabad,Data & Analytics,BI Developer,Hybrid,2025-05-19,,1,71500,8,4,No
+EMP-1800,Aarav Singh,Hyderabad,Engineering,Senior Software Engineer, hybrid,2023-11-10,,1,163000,2,3,No
+EMP-1429,Vidya Sen,Chennai,Customer Support,Senior Support Analyst,Onsite,2021-04-16,,3,61000,0,3,No
+EMP-1539,Rahul Deshmukh,Chennai, OPERATIONS ,Shift Lead,Remote,2025-05-23,,2,57000,22,4,No
+EMP-1777,Pranav Sharma,Chennai,Data & Analytics,BI Developer,Hybrid,2024-08-12,,3,104500,31,2,No
+EMP-1008,Vivek Banerjee,Gurugram,Data & Analytics,Data Analyst,Onsite,2019-12-24,,1,90000,,5,No
+,Venkatesh Reddy,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2023-10-30,,2,80000,2,1,No
+EMP-2062,Arjun Patel,Hyderabad,Sales,Sales Manager,Onsite,2023-07-11,,0,73000,3,3,No
+EMP-1693,Aarav Krishnan,Bengaluru,Engineering,QA Engineer,Remote,2019-09-14,,1,73500,6,3,No
+EMP-1598,Rahul Banerjee,Chennai,Engineering,Software Engineer,Onsite,2021-10-09,2026-05-21,1,159000,18,2,Yes
+EMP-1853,Vikram Pillai,Hyderabad,Engineering,QA Engineer,Onsite,2024-06-04,,3,74000,5,3,No
+EMP-1148,Priya Reddy,Bengaluru,Operations,Shift Lead,Onsite,2022-11-30,,1,39000,25,3,No
+EMP-1447,Divya Verma,Chennai,Engineering,Tech Lead,Hybrid,2024-10-16,,4,69500,8,1,No
+EMP-1269,Manoj Menon,Hyderabad,Customer Support,Team Lead,Onsite,2025-06-22,2026-03-30,0,57000,30,4,Yes
+EMP-1767,Divya Balaji,Pune,Data & Analytics,BI Developer,Onsite,2022-05-02,2026-10-23,2,75500,8,4,Yes
+EMP-1452,Suresh Subramanian,Hyderabad,Data & Analytics,Analytics Manager,Hybrid,2021-06-07,,3,93000,21,5,No
+EMP-1438,Harish Singh,Bengaluru,Sales,Business Development Lead,Hybrid,2019-05-18,,1,94500,10,3,No
+EMP-1830,Swathi Agarwal,Hyderabad,Operations,Shift Lead,Onsite,2025-08-27,2026-02-28,1,48500,27,3,Yes
+EMP-1327,Neha Deshmukh,Bengaluru,Operations,Shift Lead,Onsite,2021-01-12,2025-11-28,0,51000,34,4,Yes
+EMP-1483,Gokul Chatterjee,Hyderabad,Engineering,QA Engineer,Hybrid,2020-06-22,2026-09-07,2,109500,7,2,Yes
+EMP-1088,Arjun Banerjee,Bengaluru,Customer Support,Escalation Manager,Onsite,2021-04-26,,0,51000,20,5,No
+EMP-1324,Nikhil Raman,Hyderabad,Engineering,QA Engineer,Hybrid,2025-03-26,,2,89000,14,3,No
+EMP-1023,Neha Iyer,Pune,Engineering,Tech Lead,Onsite,2024-09-29,2026-05-09,2,75000,,2,Yes
+EMP-1857,Harish Sen,Bengaluru,Operations,Process Associate,Onsite,2021-02-24,2026-08-26,3,36500,6,1,Yes
+EMP-1568,Arjun Sen,Hyderabad,Data & Analytics,Analytics Manager,Hybrid,2021-07-10,,2,80500,6,2,No
+EMP-1933,Rahul Kulkarni,Hyderabad,Engineering,Software Engineer,Onsite,2023-10-06,,0,163000,12,3,No
+EMP-1536,Vikram Subramanian,Chennai,Engineering,Tech Lead,Hybrid,2021-03-18,,1,149000,15,2,No
+EMP-2188,Meera Iyer,Bengaluru,Data & Analytics,BI Developer,Hybrid,2021-10-08,,3,101500,17,4,No
+EMP-1680,Riya Kulkarni,Chennai,Customer Support,Team Lead,Onsite,2021-05-08,,0,48000,0,3,No
+EMP-2072,Meera Mehta,Hyderabad,Customer Support,Support Specialist,Onsite,2022-04-11,,3,68000,12,3,No
+EMP-1782,Manoj Nair,Pune,Customer Support,Team Lead,Onsite,2024-04-24,,1,34500,33,3,No
+EMP-1358,Varun Krishnan,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2025-07-13,,2,144500,15,3,No
+EMP-1406,Ananya Sen,Gurugram,Engineering,QA Engineer,Hybrid,2022-03-10,,2,75500,7,5,No
+EMP-1719,Siddharth Patel,Chennai,Engineering,QA Engineer,Hybrid,2021-12-28,,1,126500,5,1,No
+EMP-2178,Priya Kulkarni,Chennai,Customer Support,Support Specialist,Onsite,2022-08-30,2026-04-01,2,74500,36,4,Yes
+EMP-1775,Rahul Agarwal,Bengaluru,Data & Analytics,Data Analyst,Onsite,2020-03-08,,3,82500,23,3,No
+EMP-1472,Meera Joshi,Pune,Sales,Business Development Lead,Hybrid,2021-11-16,,2,85500,19,5,No
+EMP-1668,Vivek Sharma,Chennai,Operations,Operations Manager,Hybrid,2021-07-10,,1,40000,34,3,No
+EMP-2005,Riya Menon,Chennai,Engineering,Senior Software Engineer,Hybrid,2025-11-26,,2,107500,14,5,No
+EMP-1441,Siddharth Banerjee,Chennai,Data & Analytics,Data Analyst,Hybrid,2019-07-20,,1,57500,4,4,No
+EMP-1971,Varun Raja, gurugram ,Data & Analytics,Senior Data Analyst,Hybrid,2021-06-12,2026-07-28,3,94500,3,1,Yes
+EMP-1531,Rahul Sharma,Gurugram,Operations,Operations Executive,Onsite,2025-12-14,,2,35500,37,4,No
+EMP-1294,Karthik Subramanian,Hyderabad,Customer Support,Team Lead,Remote,2019-04-24,,0,70500,13,3,No
+EMP-1065,Ishita Iyer,Chennai,HR & Admin,HRBP, hybrid,2019-06-18,,1,49500,3,1,No
+EMP-1144,Arjun Agarwal,Bengaluru,Customer Support,Senior Support Analyst,Onsite,2021-04-15,,2,56500,17,4,No
+EMP-1107,Kavitha Chatterjee,Chennai,Sales,Sales Manager,Remote,2019-11-29,2026-06-25,1,107000,10,4,Yes
+EMP-1588,Bhavna Patel,Hyderabad,Data & Analytics,Senior Data Analyst,Remote,2022-12-26,2026-02-16,3,82500,20,1,Yes
+EMP-1676,Aarav Balaji,Pune,Operations,Process Associate,Onsite,2024-08-08,,1,81000,17,3,No
+EMP-1833,Divya Patel,Chennai,Customer Support,Support Specialist,Onsite,2021-11-21,,1,59000,27,2,No
+EMP-1484,Varun Banerjee,Gurugram,Customer Support,Team Lead,Remote,2022-10-30,,0,49000,18,4,No
+EMP-1607,Rohan Joshi,Hyderabad,Engineering,Software Engineer,Hybrid,2025-01-27,,2,81000,7,3,No
+EMP-1715,Aarav Mohan,Chennai,Customer Support,Support Specialist,Hybrid,2022-07-28,,0,32500,6,4,No
+EMP-2193,Ishita Deshmukh,Pune,Data & Analytics,Data Analyst,Hybrid,2020-09-02,,0,108500,22,3,No
+EMP-2185,Vikram Iyer,Chennai,Operations,Operations Executive,Onsite,2022-05-30,2025-12-04,0,66000,12,3,Yes
+EMP-1402,Priya Joshi,Chennai,Operations,Operations Executive, onsite,2022-04-09,,1,39000,14,5,No
+EMP-2148,Rohan Raja,Pune,Sales,Business Development Lead,Hybrid,2024-12-27,,2,112000,16,3,No
+EMP-1980,Riya Sen,Hyderabad,Customer Support,Support Specialist, onsite,2019-10-02,,4,59500,11,3,No
+EMP-2102,Kavitha Iyer,Pune,Operations,Shift Lead,Onsite,2024-06-01,2026-03-14,0,63000,37,4,Yes
+EMP-1314,Swathi Deshmukh,Hyderabad,Engineering,QA Engineer,Hybrid,2021-12-17,,0,138500,8,4,No
+EMP-1481,Sneha Agarwal,Chennai,Engineering,Tech Lead,Hybrid,2020-09-28,,1,82500,5,3,No
+EMP-1552,Arjun Iyer,Bengaluru,Data & Analytics,Senior Data Analyst,Hybrid,2020-10-17,,2,78500,15,3,No
+EMP-1206,Shruti Patel,Bengaluru,Sales,Inside Sales Rep,Hybrid,2020-10-21,,1,79500,11,4,No
+EMP-1496,Neha Banerjee,Hyderabad,Customer Support,Support Specialist,Hybrid,2024-09-10,,3,33000,34,5,No
+EMP-2038,Aarav Reddy,Chennai, DATA & ANALYTICS ,Senior Data Analyst,Remote,2024-09-23,2026-06-22,3,114000,11,3,Yes
+EMP-1510,Ananya Kannan,Pune,Data & Analytics,BI Developer,Remote,2025-05-09,,2,138000,8,3,No
+EMP-1138,Karthik Subramanian,Pune,Sales,Sales Manager, hybrid,2025-01-10,,4,97500,1,1,No
+EMP-1982,Karthik Kapoor,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2022-08-19,,3,82500,6,2,No
+EMP-1887,Varun Sen,Chennai,Customer Support,Team Lead,Onsite,2020-07-22,2026-06-06,4,55000,31,3,Yes
+EMP-1190,Deepak Patel, bengaluru ,Sales,Inside Sales Rep,Hybrid,2024-07-04,,2,63500,1,3,No
+EMP-1905,Priya Menon,Chennai,Operations,Process Associate,Onsite,2022-01-21,,0,70000,16,3,No
+EMP-1619,Manoj Raman,Hyderabad,Operations,Process Associate,Onsite,2022-06-30,,0,41000,27,2,No
+EMP-1427,Arjun Balaji,Bengaluru,Engineering,Software Engineer,Hybrid,2020-01-14,,3,154000,14,5,No
+EMP-1865,Karthik Balaji,Pune,Operations,Shift Lead,Hybrid,2023-09-18,2026-10-25,0,55000,28,1,Yes
+EMP-1256,Sneha Iyer,Hyderabad,Data & Analytics,Data Analyst,Remote,2024-07-14,2026-01-20,0,118500,7,4,Yes
+EMP-2151,Arjun Sen,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2024-02-18,,3,107500,13,3,No
+EMP-1969,Vikram Nair,Bengaluru,Engineering,QA Engineer,Remote,2024-02-26,,2,162000,3,4,No
+EMP-1674,Priya Sharma,Chennai,Engineering,Senior Software Engineer,Hybrid,2022-06-14,,4,80000,14,5,No
+EMP-1758,Manoj Mohan,Pune,Operations,Shift Lead,Remote,2023-04-03,,1,61500,28,2,No
+EMP-1124,Aarav Banerjee,Chennai,Operations,Process Associate,Onsite,2021-06-24,2026-03-26,0,59000,16,3,Yes
+EMP-1018,Priya Nair,Chennai,Engineering,Senior Software Engineer,Hybrid,2020-04-21,,3,75500,2,3,No
+EMP-1412,Nikhil Raja,Pune,Operations,Process Associate,Onsite,2021-01-30,2026-10-01,2,51000,23,3,Yes
+EMP-1881,Nikhil Chatterjee,Chennai,Engineering,Tech Lead, onsite,2023-03-08,,1,111500,10,3,No
+EMP-1126,Venkatesh Nair,Chennai,Operations,Process Associate,Onsite,2020-03-05,,4,65000,2,3,No
+EMP-1623,Pooja Raman,Bengaluru,Customer Support,Support Specialist,Onsite,2019-08-16,,0,58000,36,3,No
+EMP-2091,Pooja Deshmukh,Gurugram, OPERATIONS ,Operations Manager,Remote,2019-01-14,2026-10-06,1,79500,31,5,Yes
+EMP-1273,Venkatesh Iyer,Bengaluru,Engineering,Software Engineer,Hybrid,2023-08-11,,4,152000,5,4,No
+EMP-1875,Ishita Sen,Hyderabad,Engineering,Senior Software Engineer,Hybrid,2019-03-01,,4,120500,20,3,No
+EMP-1811,Aditi Reddy,Pune,Operations,Shift Lead,Onsite,2022-03-10,2026-06-10,2,68000,32,2,Yes
+EMP-1404,Varun Raja, hyderabad ,Operations,Operations Executive,Onsite,2023-01-05,,2,45000,5,4,No
+EMP-1096,Sanjay Raja,Hyderabad,Sales,Business Development Lead,Onsite,2022-04-26,,2,62000,11,1,No
+EMP-1487,Nikhil Kapoor,Pune,Engineering,Software Engineer,Hybrid,2019-08-08,2026-04-24,2,88500,11,5,Yes
+EMP-1624,Varun Nair,Bengaluru,Engineering,QA Engineer,Hybrid,2024-10-19,,0,65500,5,3,No
+EMP-1600,Riya Kulkarni,Hyderabad,Data & Analytics,BI Developer,Hybrid,2025-11-24,,1,125500,15,3,No
+EMP-1873,Divya Patel,Hyderabad,Customer Support,Team Lead,Onsite,2021-02-09,2026-11-03,4,68500,18,5,Yes
+EMP-1174,Deepak Rao, pune ,Sales,Inside Sales Rep,Hybrid,2019-10-24,2025-12-10,1,66000,26,3,Yes
+EMP-1287,Sanjay Balaji, bengaluru ,Data & Analytics,BI Developer,Remote,2024-06-05,,2,113500,29,5,No
+EMP-1837,Vidya Kannan,Bengaluru, SALES ,Business Development Lead,Onsite,2019-06-02,,4,110500,,4,No
+EMP-1507,Sneha Pillai,Bengaluru,Data & Analytics,Data Analyst,Hybrid,2021-12-03,,1,99000,2,4,No
+EMP-1426,Lakshmi Raja,Gurugram,Operations,Operations Executive,Onsite,2019-06-30,,1,81000,13,4,No
+EMP-1195,Bhavna Sen,Bengaluru,Engineering,QA Engineer,Hybrid,2025-02-11,,2,132000,3,4,No
+EMP-1486,Varun Nair,Bengaluru,Sales,Sales Manager,Hybrid,2024-09-27,,1,64500,1,4,No
+EMP-1959,Rahul Singh,Bengaluru,Data & Analytics,Senior Data Analyst,Hybrid,2021-08-14,,1,134000,17,5,No
+EMP-1390,Suresh Narayanan,Bengaluru,HR & Admin,HR Manager,Hybrid,2023-12-01,,1,68000,19,3,No
+EMP-2198,Vivek Mohan,Bengaluru,Engineering,QA Engineer,Onsite,2024-12-27,2026-01-09,3,108000,24,1,Yes
+EMP-1123,Aditi Verma,Gurugram,Engineering,Senior Software Engineer, hybrid,2022-01-16,,3,71500,14,4,No
+EMP-1347,Rajesh Subramanian,Hyderabad,Data & Analytics,BI Developer,Remote,2019-02-02,2026-09-15,1,113000,20,4,Yes
+EMP-1478,Manoj Sharma,Gurugram,Sales,Inside Sales Rep,Remote,2020-10-24,,1,71000,4,3,No
+EMP-1550,Siddharth Chatterjee, hyderabad ,Operations,Shift Lead,Onsite,2023-11-07,2026-01-15,4,70000,15,3,Yes
+EMP-1828,Karthik Rao,Gurugram,Customer Support,Escalation Manager,Remote,2021-05-26,,2,44500,,5,No
+EMP-1925,Vikram Agarwal,Hyderabad,Operations,Operations Manager,Onsite,2022-11-06,,0,80000,24,1,No
+EMP-1467,Siddharth Hegde,Bengaluru,HR & Admin,HR Coordinator, onsite,2021-05-17,2026-07-09,1,57500,12,3,Yes
+EMP-1253,Manoj Mohan, gurugram ,Customer Support,Escalation Manager,Hybrid,2024-01-16,,0,34500,15,4,No
+EMP-1734,Sneha Hegde,Hyderabad, HR & ADMIN ,HR Coordinator,Hybrid,2020-03-14,,2,59500,1,3,No
+EMP-1396,Harish Deshmukh,Bengaluru,Sales,Sales Manager,Hybrid,2021-01-24,,0,67000,19,3,No
+EMP-2160,Divya Singh,Chennai,HR & Admin,HR Manager,Hybrid,2024-06-08,,0,43500,19,2,No
+EMP-1388,Sanjay Kannan,Bengaluru,Operations,Shift Lead,Onsite,2023-11-22,2025-12-15,4,71500,,4,Yes
+EMP-1264,Swathi Agarwal,Bengaluru,Sales,Inside Sales Rep,Onsite,2024-01-20,,3,62000,16,3,No
+EMP-2077,Aditi Nair,Hyderabad,Operations,Process Associate,Onsite,2021-10-06,,1,57500,31,2,No
+EMP-2040,Vikram Singh,Bengaluru,Sales,Business Development Lead,Hybrid,2021-08-20,,1,101500,18,3,No
+EMP-1137,Gokul Banerjee,Bengaluru,Customer Support,Support Specialist,Onsite,2020-11-08,,3,74500,20,3,No
+EMP-1709,Karthik Joshi,Pune, OPERATIONS ,Operations Executive,Onsite,2020-09-08,,0,73000,17,1,No
+EMP-1567,Lakshmi Agarwal,Bengaluru,Sales,Account Executive,Remote,2025-02-21,,1,59000,8,3,No
+EMP-1378,Divya Joshi, chennai ,Customer Support,Support Specialist,Remote,2019-09-22,,1,65500,13,2,No
+EMP-1690,Sanjay Patel,Hyderabad, DATA & ANALYTICS ,Senior Data Analyst,Hybrid,2023-09-10,2026-04-06,1,119000,17,3,Yes
+EMP-1071,Divya Mohan,Bengaluru,Data & Analytics,Senior Data Analyst,Onsite,2021-11-01,,4,69000,17,3,No
+EMP-2104,Manoj Kumar,Hyderabad,Engineering,QA Engineer, onsite,2020-03-02,,3,83000,10,5,No
+EMP-1943,Divya Subramanian,Chennai,Customer Support,Team Lead,Onsite,2024-07-25,,1,56000,11,3,No
+EMP-1111,Aditi Raja,Pune,Data & Analytics,Analytics Manager, hybrid,2025-03-31,,0,86000,26,2,No
+EMP-1664,Gokul Kumar,Bengaluru,Engineering,Tech Lead,Hybrid,2021-08-27,,0,96500,3,4,No
+EMP-2135,Arjun Agarwal, pune ,Sales,Sales Manager,Hybrid,2023-10-08,,0,113500,5,4,No
+EMP-1152,Meera Krishnan,Hyderabad,Operations,Shift Lead,Onsite,2022-10-29,,1,60000,18,5,No
+EMP-1998,Harish Menon,Pune,HR & Admin,HR Manager,Hybrid,2022-12-15,,1,53500,32,1,No
+EMP-1410,Aarav Iyer,Hyderabad,Sales,Account Executive,Hybrid,2024-02-01,,2,53500,11,2,No
+EMP-1223,Swathi Krishnan,Chennai, SALES ,Inside Sales Rep,Onsite,2021-02-17,,0,65500,0,4,No
+EMP-1774,Pranav Mohan,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2024-10-06,,4,145500,5,1,No
+EMP-2173,Manoj Kumar, chennai ,Operations,Process Associate,Onsite,2020-01-19,2026-04-03,0,53000,26,4,Yes
+EMP-1087,Priya Patel,Chennai,Data & Analytics,BI Developer,Hybrid,2020-01-11,2026-03-21,0,85000,18,4,Yes
+EMP-1613,Rohan Sen,Gurugram,Customer Support,Support Specialist,Remote,2021-03-25,,1,41500,22,4,No
+EMP-1729,Rohan Prasad,Hyderabad,Operations,Process Associate,Hybrid,2022-05-14,,0,73500,5,4,No
+EMP-1233,Sneha Pillai,Pune,Customer Support,Escalation Manager,Onsite,2024-12-31,,3,44500,33,4,No
+EMP-2067,Pranav Deshmukh,Hyderabad,Operations,Operations Executive,Onsite,2024-03-20,,2,66000,10,4,No
+EMP-1193,Meera Prasad,Bengaluru,Customer Support,Support Specialist,Onsite,2025-11-12,,2,55500,32,3,No
+EMP-1805,Karthik Agarwal,Bengaluru,Operations,Shift Lead,Onsite,2021-01-28,2026-01-08,2,75500,38,3,Yes
+EMP-1641,Ananya Sen,Pune,HR & Admin,HRBP,Onsite,2022-11-12,,3,51500,10,5,No
+EMP-1155,Varun Iyer,Gurugram,Engineering,Software Engineer,Hybrid,2025-03-02,,2,152500,0,2,No
+EMP-1589,Shruti Sen,Bengaluru,Customer Support,Senior Support Analyst,Onsite,2024-06-29,2026-08-10,1,45000,36,4,Yes
+EMP-1723,Pranav Menon,Gurugram,Operations,Operations Manager,Onsite,2023-10-01,2026-10-30,0,42500,24,2,Yes
+EMP-1400,Sneha Balaji,Chennai,Customer Support,Senior Support Analyst,Hybrid,2019-01-20,2026-09-06,2,38000,,4,Yes
+EMP-1414,Akash Subramanian,Chennai,Engineering,Software Engineer,Onsite,2022-08-16,2026-02-08,0,110500,6,3,Yes
+EMP-1116,Bhavna Verma,Bengaluru,Sales,Sales Manager,Hybrid,2021-05-29,,1,54500,2,3,No
+EMP-2063,Nikhil Sen,Hyderabad,Engineering,Senior Software Engineer,Hybrid,2023-05-07,,2,145000,1,4,No
+EMP-1569,Suresh Prasad,Bengaluru,Operations,Shift Lead,Onsite,2021-02-03,,0,44000,7,2,No
+EMP-1310,Vikram Nair,Bengaluru,Customer Support,Senior Support Analyst,Onsite,2024-08-25,,1,66000,7,3,No
+EMP-1157,Aditi Narayanan,Pune,Data & Analytics,BI Developer,Hybrid,2024-12-02,,1,123500,13,3,No
+EMP-1846,Sneha Kumar,Hyderabad,Engineering,Senior Software Engineer,Hybrid,2024-10-12,,1,165000,3,3,No
+EMP-2047,Pranav Agarwal,Hyderabad,Customer Support,Escalation Manager,Onsite,2025-07-18,,0,52500,11,2,No
+EMP-1443,Vikram Kumar,Pune,HR & Admin,Talent Acquisition Specialist,Hybrid,2021-12-08,,0,46500,19,3,No
+EMP-1221,Shruti Iyer,Pune,Engineering,Tech Lead,Hybrid,2021-10-16,,1,78500,19,3,No
+EMP-1464,Arjun Kapoor,Pune,Engineering,Senior Software Engineer,Hybrid,2025-02-20,,2,150500,4,3,No
+EMP-1019,Meera Kapoor, hyderabad ,Engineering,Tech Lead,Onsite,2019-08-30,2026-06-11,1,133500,14,3,Yes
+EMP-1733,Vikram Banerjee,Chennai,Operations,Operations Manager,Hybrid,2023-09-04,,3,72500,18,4,No
+EMP-1684,Gokul Mohan,Hyderabad,Data & Analytics,BI Developer,Hybrid,2023-07-07,,3,94000,18,3,No
+EMP-1582,Swathi Sharma,Pune,Customer Support,Support Specialist,Onsite,2022-08-20,,1,71000,37,3,No
+EMP-1147,Ananya Reddy,Pune,Customer Support,Senior Support Analyst,Onsite,2025-05-14,,2,41000,27,3,No
+EMP-1298,Divya Narayanan,Chennai,Engineering,QA Engineer,Hybrid,2024-10-21,,2,85500,6,3,No
+EMP-1673,Ishita Krishnan,Bengaluru,Sales,Sales Manager,Remote,2019-09-17,,2,71000,1,4,No
+EMP-2065,Aarav Hegde,Hyderabad,Sales,Sales Manager,Onsite,2024-02-28,,0,48500,19,4,No
+EMP-1027,Neha Nair,Chennai,Customer Support,Team Lead,Onsite,2020-04-07,,2,39500,19,1,No
+EMP-2147,Sanjay Narayanan,Hyderabad,Data & Analytics,BI Developer,Remote,2022-01-28,,1,118000,15,4,No
+EMP-1975,Meera Menon,Pune,Engineering,Software Engineer,Hybrid,2022-03-21,,3,96500,7,4,No
+EMP-2015,Nikhil Raja,Chennai,Sales,Account Executive,Onsite,2022-11-28,,4,96500,3,3,No
+EMP-1696,Akash Kumar,Hyderabad,Operations,Operations Executive,Onsite,2021-05-06,2026-10-18,1,82500,30,3,Yes
+EMP-1152,Meera Krishnan,Hyderabad,Operations,Shift Lead,Onsite,2022-10-29,,1,60000,18,5,No
+EMP-1079,Arjun Raja,Bengaluru,Engineering,QA Engineer,Hybrid,2019-04-21,,0,134500,17,4,No
+EMP-1899,Aarav Sharma,Bengaluru,Customer Support,Team Lead,Onsite,2024-01-25,,1,44500,7,4,No
+EMP-1359,Akash Narayanan,Chennai, ENGINEERING ,Software Engineer,Remote,2023-03-31,,1,133000,8,4,No
+EMP-1658,Bhavna Narayanan,Bengaluru,Sales,Inside Sales Rep,Hybrid,2025-05-16,,2,73500,31,2,No
+EMP-1197,Divya Sharma,Hyderabad,Data & Analytics,BI Developer,Hybrid,2022-02-10,,2,123500,8,4,No
+EMP-1435,Pranav Sharma,Bengaluru,HR & Admin,HR Manager,Hybrid,2022-05-05,2026-03-28,4,43500,3,3,Yes
+EMP-1386,Kavitha Singh,Hyderabad,Customer Support,Team Lead,Remote,2021-02-15,,2,54500,20,4,No
+EMP-2013,Aditi Narayanan,Chennai,Engineering,Software Engineer, hybrid,2022-04-03,,1,145500,7,4,No
+EMP-1202,Meera Mohan,Bengaluru,Sales,Inside Sales Rep,Onsite,2019-11-15,,2,77000,2,4,No
+EMP-2120,Aditi Prasad,Pune,Engineering,Tech Lead,Hybrid,2024-08-31,,1,124500,26,5,No
+EMP-1823,Aarav Kumar,Bengaluru,Customer Support,Escalation Manager,Hybrid,2020-05-28,,0,46000,12,4,No
+EMP-1547,Rohan Singh,Bengaluru,HR & Admin,HR Coordinator,Hybrid,2025-03-04,,1,63500,0,4,No
+EMP-1208,Vivek Menon,Hyderabad,Operations,Operations Executive,Onsite,2024-06-07,,3,43000,0,3,No
+EMP-1854,Suresh Balaji,Bengaluru,Data & Analytics,Senior Data Analyst,Hybrid,2025-09-28,,1,73500,1,1,No
+EMP-1977,Ananya Joshi,Hyderabad,Data & Analytics,Analytics Manager,Hybrid,2020-12-07,,1,93500,10,4,No
+EMP-1257,Manoj Rao,Pune,Engineering,Software Engineer,Hybrid,2023-03-19,2026-08-23,2,128000,16,5,Yes
+EMP-1008,Vivek Banerjee,Gurugram,Data & Analytics,Data Analyst,Onsite,2019-12-24,,1,90000,,5,No
+EMP-1973,Swathi Sen,Hyderabad,Operations,Operations Manager,Remote,2020-05-24,,3,56000,28,3,No
+EMP-1215,Harish Kapoor,Gurugram,HR & Admin,HR Manager,Hybrid,2024-01-12,2026-07-31,1,72000,0,3,Yes
+EMP-1533,Divya Mohan,Bengaluru,Operations,Operations Executive,Hybrid,2025-10-11,,2,84500,4,3,No
+EMP-1104,Meera Krishnan,Chennai,Customer Support,Team Lead,Hybrid,2021-04-30,,2,44500,1,3,No
+EMP-1411,Rahul Kulkarni,Pune,Data & Analytics,Analytics Manager,Hybrid,2019-07-17,,0,126500,2,3,No
+EMP-1042,Rajesh Mehta,Bengaluru,Customer Support,Team Lead,Hybrid,2021-04-16,,3,64000,31,4,No
+EMP-1291,Venkatesh Sen,Bengaluru,Operations,Shift Lead,Onsite,2024-09-03,2025-12-15,1,78500,30,3,Yes
+EMP-1078,Vidya Raman,Bengaluru,Sales,Account Executive,Remote,2021-06-30,,0,101000,31,2,No
+EMP-2114,Suresh Sharma,Chennai,Sales,Inside Sales Rep,Onsite,2025-02-13,,1,66500,0,4,No
+EMP-1912,Sneha Menon,Chennai,Engineering,Software Engineer,Onsite,2020-05-09,,4,90000,15,3,No
+EMP-1728,Vidya Kannan,Bengaluru,Operations,Shift Lead,Onsite,2019-09-08,2026-03-09,2,57000,28,5,Yes
+EMP-1318,Bhavna Singh,Chennai,Operations,Operations Executive,Remote,2020-09-10,,4,71000,10,2,No
+EMP-1178,Gokul Kapoor,Bengaluru,Operations,Shift Lead,Onsite,2020-07-05,,2,54000,30,4,No
+EMP-2152,Pranav Joshi,Bengaluru,Engineering,Tech Lead,Onsite,2020-06-21,,0,93500,2,3,No
+EMP-1421,Meera Reddy,Bengaluru,Engineering,Senior Software Engineer,Remote,2025-12-11,,2,120000,10,3,No
+EMP-1278,Sneha Sen,Bengaluru,Customer Support,Escalation Manager,Onsite,2020-01-02,2026-01-05,0,32500,21,5,Yes
+,Akash Nair,Gurugram,Customer Support,Team Lead,Onsite,2023-01-18,,1,70000,19,3,No
+EMP-1127,Pranav Kapoor,Bengaluru,HR & Admin,HR Manager,Onsite,2022-08-22,,4,71000,,3,No
+EMP-1525,Pranav Kannan,Chennai,Operations,Process Associate,Onsite,2024-08-23,,2,38500,3,3,No
+EMP-1753,Priya Kapoor, bengaluru ,HR & Admin,HR Manager,Hybrid,2021-03-21,,1,58500,10,5,No
+EMP-1655,Riya Nair,Hyderabad,Data & Analytics,Data Analyst,Hybrid,2019-05-05,,1,75500,0,1,No
+EMP-2003,Pooja Raja, pune ,Customer Support,Senior Support Analyst,Hybrid,2022-07-04,,2,43000,27,3,No
+EMP-1112,Riya Balaji,Bengaluru,Operations,Shift Lead,Onsite,2021-07-15,,0,55500,4,3,No
+EMP-1153,Swathi Pillai,Pune,Sales,Business Development Lead,Hybrid,2025-06-27,,4,118500,3,3,No
+EMP-1834,Arjun Mohan,Pune,Engineering,Senior Software Engineer,Remote,2022-02-28,2026-08-28,1,103500,7,3,Yes
+EMP-1299,Sanjay Pillai, chennai ,Engineering,Tech Lead,Hybrid,2019-09-24,2026-07-17,3,137500,14,3,Yes
+EMP-2069,Rahul Chatterjee,Bengaluru,HR & Admin,HRBP,Remote,2021-03-27,,1,51500,7,4,No
+EMP-1021,Meera Balaji,Bengaluru,Customer Support,Team Lead,Onsite,2020-01-26,2026-08-24,0,32500,23,2,Yes
+EMP-1808,Rajesh Mohan,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2024-01-27,,1,104500,4,2,No
+EMP-2057,Manoj Mehta,Bengaluru,Sales,Account Executive,Hybrid,2021-11-04,,2,113500,24,3,No
+EMP-2157,Akash Singh,Chennai,Sales,Inside Sales Rep,Remote,2025-01-30,,3,87000,1,5,No
+EMP-1241,Sanjay Kannan,Hyderabad,Engineering,Senior Software Engineer,Hybrid,2023-07-05,,1,155000,8,2,No
+EMP-1038,Aditi Verma,Hyderabad,Operations,Operations Manager,Hybrid,2023-01-31,,3,60000,13,3,No
+EMP-1578,Shruti Sen,Pune,Data & Analytics,BI Developer,Remote,2022-04-15,,4,100000,3,5,No
+EMP-2123,Priya Kapoor,Bengaluru,Engineering,Software Engineer,Onsite,2020-01-04,,2,154500,13,4,No
+EMP-1417,Priya Hegde,Chennai,Data & Analytics,Senior Data Analyst,Hybrid,2024-10-06,,3,97500,11,3,No
+EMP-1473,Meera Joshi,Hyderabad,Customer Support,Team Lead,Remote,2024-08-19,,4,67000,3,5,No
+EMP-1514,Ananya Pillai,Hyderabad,Operations,Process Associate,Onsite,2025-12-10,,3,64500,13,4,No
+EMP-1566,Suresh Kannan,Gurugram,Operations,Operations Executive,Onsite,2025-07-06,,4,50500,,4,No
+EMP-1986,Manoj Menon,Gurugram,Engineering,Tech Lead, onsite,2024-03-27,2025-11-16,1,96500,14,1,Yes
+EMP-1083,Riya Patel,Pune,Engineering,Tech Lead,Remote,2019-01-11,2026-05-22,3,145500,29,3,Yes
+EMP-2116,Ishita Banerjee,Hyderabad,Operations,Operations Manager,Onsite,2025-07-08,2026-04-22,1,41000,29,3,Yes
+EMP-2158,Bhavna Sharma,Pune,Engineering,Senior Software Engineer,Remote,2019-06-03,,1,163000,5,4,No
+EMP-1351,Vikram Verma,Chennai,Engineering,Tech Lead,Onsite,2025-10-04,,1,70000,3,2,No
+EMP-1515,Manoj Balaji,Bengaluru,Data & Analytics,BI Developer, onsite,2020-03-04,2026-04-15,3,87500,15,3,Yes
+EMP-1656,Shruti Raja,Pune,Engineering,Senior Software Engineer,Onsite,2022-08-23,2026-10-26,2,126500,15,3,Yes
+EMP-1885,Rajesh Balaji,Gurugram,Customer Support,Escalation Manager,Onsite,2022-05-12,,3,62000,12,4,No
+EMP-1583,Rohan Mehta,Hyderabad,Operations,Shift Lead,Onsite,2023-10-22,2026-04-23,2,45000,20,3,Yes
+EMP-1276,Ishita Pillai,Bengaluru,Operations,Operations Executive, hybrid,2023-08-11,,2,80000,11,5,No
+EMP-1313,Aarav Iyer,Bengaluru,Operations,Process Associate,Onsite,2022-08-21,,2,51500,19,2,No
+EMP-1815,Divya Kulkarni,Chennai,Customer Support,Escalation Manager,Onsite,2025-02-07,,2,42000,15,4,No
+EMP-1300,Sneha Kulkarni,Hyderabad,Operations,Shift Lead,Onsite,2022-03-16,2026-04-03,0,71000,32,2,Yes
+EMP-1204,Shruti Krishnan,Pune,Engineering,Software Engineer,Onsite,2020-05-01,,1,82500,11,5,No
+EMP-2111,Varun Mohan,Bengaluru,Customer Support,Senior Support Analyst,Hybrid,2020-12-18,2025-12-26,1,41000,16,3,Yes
+EMP-1236,Vivek Balaji,Bengaluru,HR & Admin,Talent Acquisition Specialist,Onsite,2024-12-26,,2,58500,0,5,No
+EMP-1976,Shruti Patel,Chennai,Operations,Operations Executive,Remote,2021-01-06,,2,39500,12,4,No
+EMP-1667,Riya Narayanan,Pune,Sales,Business Development Lead,Hybrid,2021-05-14,,4,111500,7,2,No
+EMP-1425,Ananya Narayanan,Gurugram,Data & Analytics,Data Analyst,Hybrid,2021-11-25,,2,116000,0,2,No
+EMP-1119,Ishita Rao,Hyderabad,Sales,Business Development Lead,Remote,2019-09-06,2026-04-12,3,50500,20,3,Yes
+EMP-1305,Vikram Deshmukh,Pune,Customer Support,Escalation Manager,Remote,2019-09-08,,3,63500,34,4,No
+EMP-2190,Pranav Raja,Chennai,Operations,Process Associate,Hybrid,2024-05-27,2026-01-22,1,45500,27,3,Yes
+EMP-1367,Vivek Iyer, gurugram ,Data & Analytics,Senior Data Analyst,Remote,2024-12-15,2026-09-04,3,94000,15,4,Yes
+EMP-1666,Swathi Joshi,Pune,Engineering,Senior Software Engineer,Remote,2019-08-16,,3,129000,0,5,No
+EMP-1030,Priya Mohan,Bengaluru, DATA & ANALYTICS ,Analytics Manager,Remote,2024-02-05,,2,141500,14,2,No
+EMP-1423,Ishita Krishnan, bengaluru ,Engineering,Software Engineer,Remote,2020-10-19,2026-10-06,2,83000,32,4,Yes
+EMP-1350,Ananya Mohan,Hyderabad,Operations,Operations Manager,Onsite,2021-12-17,2026-03-08,1,42000,0,5,Yes
+EMP-2154,Suresh Pillai,Bengaluru,Engineering,Software Engineer,Hybrid,2022-05-03,,0,83000,8,4,No
+EMP-1101,Rajesh Agarwal,Chennai, OPERATIONS ,Process Associate,Hybrid,2025-01-31,,3,59500,30,4,No
+EMP-1203,Aarav Kumar,Chennai,Engineering,QA Engineer,Hybrid,2020-01-22,2026-02-18,0,96000,20,3,Yes
+EMP-1518,Lakshmi Mohan,Bengaluru,Data & Analytics,Senior Data Analyst,Remote,2024-09-01,,1,134000,6,3,No
+EMP-1872,Varun Pillai,Hyderabad,Data & Analytics,Senior Data Analyst, remote,2023-01-20,,2,63500,5,2,No
+EMP-2142,Manoj Kapoor,Hyderabad,Operations,Shift Lead, hybrid,2024-09-13,,1,56500,5,1,No
+EMP-1835,Vidya Raman,Chennai,Sales,Business Development Lead,Onsite,2022-07-24,,1,65500,4,4,No
+EMP-2186,Bhavna Agarwal,Chennai,Sales,Business Development Lead,Remote,2019-04-10,,3,100500,8,3,No
+EMP-1214,Ananya Pillai,Gurugram,Operations,Operations Manager,Onsite,2024-01-20,2026-01-25,2,46500,30,5,Yes
+EMP-1630,Siddharth Singh,Bengaluru,Data & Analytics,Data Analyst,Onsite,2020-05-14,,0,135000,13,2,No
+EMP-1988,Vivek Agarwal,Hyderabad,Engineering,Senior Software Engineer,Hybrid,2024-12-24,,2,155500,7,3,No
+EMP-1504,Meera Singh,Hyderabad,Sales,Business Development Lead,Remote,2021-12-30,,1,66000,18,2,No
+EMP-1702,Priya Pillai,Gurugram,Data & Analytics,BI Developer,Remote,2024-10-25,,3,72000,26,3,No
+EMP-2088,Kavitha Reddy,Hyderabad,Engineering,Senior Software Engineer,Hybrid,2024-06-28,,3,118000,20,4,No
+EMP-1461,Arjun Banerjee,Bengaluru,Customer Support,Support Specialist,Onsite,2025-07-31,,1,62000,36,4,No
+EMP-1896,Arjun Subramanian,Chennai,Customer Support,Senior Support Analyst,Onsite,2023-03-18,2026-01-22,1,71500,20,2,Yes
+EMP-1100,Swathi Banerjee,Bengaluru,Sales,Account Executive,Hybrid,2024-03-15,,0,81000,18,5,No
+EMP-1862,Venkatesh Balaji,Bengaluru,Engineering,Tech Lead,Hybrid,2021-09-27,,1,120000,6,2,No
+EMP-1639,Vidya Joshi,Bengaluru,Operations,Process Associate,Onsite,2024-01-31,2026-06-26,2,49500,18,5,Yes
+EMP-1125,Vivek Joshi,Pune,Engineering,Software Engineer,Hybrid,2024-11-30,,3,116500,28,3,No
+EMP-1053,Pooja Mohan,Chennai,Data & Analytics,Analytics Manager,Remote,2020-05-22,,3,126000,17,4,No
+EMP-1841,Suresh Iyer, chennai ,Engineering,QA Engineer,Hybrid,2023-11-14,,1,161000,1,3,No
+EMP-1509,Shruti Chatterjee,Bengaluru,HR & Admin,Talent Acquisition Specialist,Remote,2021-01-14,,1,49500,0,5,No
+EMP-1787,Aarav Raman,Hyderabad,Operations,Operations Executive,Onsite,2022-04-16,,0,41000,19,4,No
+EMP-1477,Gokul Banerjee, hyderabad ,Customer Support,Team Lead,Onsite,2024-07-03,2026-01-23,0,49000,30,3,Yes
+EMP-1436,Bhavna Narayanan,Bengaluru,Engineering,Software Engineer,Remote,2021-12-14,,0,117000,2,3,No
+EMP-1626,Deepak Mohan,Hyderabad, CUSTOMER SUPPORT ,Senior Support Analyst,Onsite,2021-02-18,,0,32500,5,3,No
+EMP-1255,Nikhil Deshmukh,Bengaluru,HR & Admin,HR Manager,Onsite,2024-02-17,,4,47500,2,3,No
+EMP-1852,Pooja Patel,Bengaluru,Sales,Account Executive,Hybrid,2021-05-12,,2,65000,19,3,No
+EMP-1799,Aarav Raman,Bengaluru,Customer Support,Team Lead,Onsite,2025-01-13,2026-08-17,0,69000,23,2,Yes
+EMP-1067,Meera Kannan,Hyderabad,Engineering,QA Engineer,Hybrid,2021-07-24,,4,101000,19,5,No
+EMP-1663,Bhavna Chatterjee,Hyderabad,Sales,Inside Sales Rep,Remote,2024-06-03,,2,66000,18,4,No
+EMP-2037,Pooja Rao,Chennai,Operations,Operations Manager,Hybrid,2024-02-29,2026-09-10,2,58500,29,4,Yes
+EMP-1524,Divya Patel,Hyderabad,Customer Support,Senior Support Analyst,Onsite,2024-12-29,,4,42000,4,3,No
+EMP-1077,Priya Sharma,Chennai,Operations,Operations Manager,Onsite,2025-04-15,,1,66000,15,3,No
+EMP-2020,Riya Hegde,Pune,Customer Support,Team Lead,Onsite,2023-04-13,,0,42500,30,3,No
+EMP-1869,Suresh Rao,Hyderabad,Engineering,QA Engineer,Remote,2024-07-10,,2,108000,6,4,No
+EMP-BAD-2,Akash Singh,Chennai,Sales,Inside Sales Rep,Remote,2025-01-30,,3,0,1,5,No
+EMP-1956,Pooja Joshi,Hyderabad,Engineering,Senior Software Engineer,Remote,2019-03-10,,1,98500,25,4,No
+EMP-1565,Suresh Mohan,Hyderabad,Data & Analytics,Senior Data Analyst,Onsite,2020-11-18,2026-04-04,3,100500,16,3,Yes
+EMP-1213,Manoj Sharma,Pune, DATA & ANALYTICS ,Data Analyst,Remote,2020-09-16,,0,124500,23,4,No
+EMP-2133,Manoj Kumar,Bengaluru,Data & Analytics,Senior Data Analyst,Hybrid,2020-05-05,,4,69000,,3,No
+EMP-2014,Sneha Pillai,Bengaluru,Data & Analytics,Data Analyst,Onsite,2019-11-09,,1,129000,22,4,No
+EMP-1754,Riya Prasad,Gurugram,Customer Support,Support Specialist,Hybrid,2025-07-02,,1,51000,2,3,No
+EMP-1612,Deepak Rao, pune ,Operations,Shift Lead,Hybrid,2023-08-03,2026-07-01,0,44000,13,4,Yes
+EMP-1867,Vikram Mohan,Chennai,Engineering,Software Engineer,Hybrid,2020-09-25,2026-01-23,4,98500,2,4,Yes
+EMP-1201,Akash Kannan,Chennai,Engineering,QA Engineer,Remote,2022-07-08,,1,108000,,3,No
+EMP-1952,Bhavna Pillai,Bengaluru,Customer Support,Support Specialist,Onsite,2025-03-22,2026-07-28,2,64500,18,3,Yes
+EMP-2115,Priya Raja,Bengaluru,Engineering,QA Engineer,Hybrid,2023-11-13,,1,93500,7,3,No
+EMP-1816,Siddharth Nair, bengaluru ,Operations,Operations Manager,Onsite,2025-06-09,,1,74500,14,4,No
+EMP-1113,Divya Joshi,Pune,Data & Analytics,BI Developer,Remote,2022-10-19,,1,119500,22,5,No
+EMP-2094,Akash Krishnan,Pune,Data & Analytics,BI Developer,Hybrid,2021-06-07,,1,60500,10,5,No
+EMP-1591,Varun Rao,Pune,Operations,Process Associate,Onsite,2025-12-02,,0,78500,11,4,No
+EMP-2034,Manoj Rao,Gurugram,Customer Support,Team Lead,Hybrid,2023-06-07,,1,34500,17,5,No
+EMP-1757,Riya Reddy,Bengaluru,Data & Analytics,Data Analyst, onsite,2021-01-04,,0,108500,11,3,No
+EMP-2192,Arjun Hegde,Chennai,HR & Admin,HR Coordinator,Hybrid,2023-08-06,,1,94500,32,4,No
+EMP-1799,Aarav Raman,Bengaluru,Customer Support,Team Lead,Onsite,2025-01-13,2026-08-17,0,69000,23,2,Yes
+EMP-1657,Karthik Narayanan,Chennai,Customer Support,Escalation Manager,Onsite,2020-11-27,,1,68500,19,5,No
+EMP-2137,Vidya Patel,Chennai,Customer Support,Team Lead, hybrid,2019-01-15,2026-04-29,3,49500,29,1,Yes
+EMP-1940,Rohan Banerjee,Hyderabad,Customer Support,Support Specialist,Onsite,2024-01-24,2026-04-25,1,42000,2,3,Yes
+EMP-1160,Nikhil Chatterjee,Hyderabad,Engineering,Senior Software Engineer,Remote,2022-06-22,2026-01-27,2,67000,19,3,Yes
+EMP-2080,Vidya Patel,Pune,Sales,Account Executive,Hybrid,2023-02-06,,1,68500,27,3,No
+EMP-1235,Kavitha Joshi,Bengaluru,Engineering,Tech Lead,Onsite,2024-08-11,,1,154500,,5,No
+EMP-1131,Neha Subramanian,Bengaluru,Sales,Business Development Lead,Onsite,2023-06-24,,1,84000,13,3,No
+EMP-1302,Vidya Raman,Chennai, DATA & ANALYTICS ,BI Developer,Onsite,2025-08-06,,1,102000,3,3,No
+EMP-2023,Harish Nair,Chennai,Operations,Shift Lead,Onsite,2021-11-20,2026-09-30,3,79500,5,3,Yes
+EMP-1880,Varun Pillai,Bengaluru,Engineering,Software Engineer, remote,2019-03-27,2026-06-21,2,143500,5,3,Yes
+EMP-1898,Sanjay Singh, chennai ,Sales,Account Executive,Hybrid,2024-12-11,2026-02-14,2,113500,4,4,Yes
+EMP-1613,Rohan Sen,Gurugram,Customer Support,Support Specialist,Remote,2021-03-25,,1,41500,22,4,No
+EMP-1167,Rohan Kulkarni,Pune,Engineering,Tech Lead,Remote,2019-05-03,,1,83000,29,3,No
+EMP-1741,Ananya Verma,Chennai,Customer Support,Team Lead,Hybrid,2022-01-29,2026-02-06,1,71500,24,2,Yes
+EMP-1599,Kavitha Menon,Gurugram,Engineering,Senior Software Engineer,Remote,2021-09-26,,0,140500,14,3,No
+EMP-1966,Vikram Iyer,Bengaluru,Sales,Inside Sales Rep,Hybrid,2022-02-10,,4,98500,2,4,No
+EMP-2048,Aarav Patel,Pune,Operations,Process Associate,Onsite,2024-10-20,2025-11-18,1,52500,37,3,Yes
+EMP-1099,Swathi Chatterjee, pune ,Customer Support,Escalation Manager,Onsite,2022-11-03,2026-10-16,3,57000,33,4,Yes
+EMP-1961,Kavitha Hegde,Pune,Customer Support,Team Lead,Onsite,2025-10-01,,1,51500,0,5,No
+EMP-1319,Bhavna Sen,Gurugram,Customer Support,Senior Support Analyst,Hybrid,2022-10-25,,0,61000,36,4,No
+EMP-1340,Sanjay Sharma,Hyderabad,Sales,Account Executive,Hybrid,2022-08-13,,0,46000,23,4,No
+EMP-2166,Neha Verma,Pune,Data & Analytics,Data Analyst,Hybrid,2020-08-06,,1,62000,11,3,No
+EMP-1522,Divya Sen,Hyderabad,Operations,Operations Executive, remote,2020-02-24,2026-07-09,4,47500,7,3,Yes
+EMP-2083,Akash Deshmukh, bengaluru ,Sales,Sales Manager,Hybrid,2021-10-23,,2,83000,12,3,No
+EMP-1492,Bhavna Pillai,Bengaluru,Customer Support,Senior Support Analyst,Onsite,2021-03-23,,2,38000,30,4,No
+EMP-1521,Shruti Kannan,Chennai,Customer Support,Support Specialist,Remote,2021-01-12,,3,50000,12,4,No
+EMP-1189,Deepak Sharma,Chennai,Operations,Shift Lead,Onsite,2021-01-04,2026-09-27,1,35500,23,2,Yes
+EMP-1385,Rohan Kumar,Bengaluru,Data & Analytics,Data Analyst,Hybrid,2024-06-10,,2,131000,0,3,No
+EMP-1069,Akash Kapoor,Bengaluru,Operations,Process Associate,Onsite,2021-05-05,2026-07-03,1,46500,37,3,Yes
+EMP-1809,Vivek Banerjee,Pune,Operations,Shift Lead,Onsite,2020-09-20,,3,71000,35,4,No
+EMP-1548,Riya Nair,Gurugram,Operations,Process Associate,Hybrid,2023-01-23,,0,82000,2,3,No
+EMP-1736,Ananya Mehta,Hyderabad,Operations,Operations Manager,Remote,2023-01-19,2026-02-04,1,78000,10,5,Yes
+,Lakshmi Patel,Gurugram,Data & Analytics,Data Analyst,Remote,2020-08-28,,1,78000,11,5,No
+EMP-1843,Varun Raman,Hyderabad,Engineering,Software Engineer,Onsite,2021-01-13,,3,149000,19,5,No
+EMP-1861,Divya Verma,Gurugram,Engineering,Software Engineer,Hybrid,2023-08-26,,1,81000,19,3,No
+EMP-1806,Rahul Prasad,Hyderabad,Customer Support,Senior Support Analyst,Onsite,2020-04-25,,1,39000,28,1,No
+EMP-1530,Siddharth Singh,Hyderabad,Sales,Business Development Lead,Remote,2022-02-27,,1,79500,14,3,No
+EMP-1391,Vikram Kapoor,Bengaluru,Sales,Sales Manager,Onsite,2024-09-24,,4,108000,12,5,No
+EMP-1675,Sneha Sen,Gurugram,Operations,Shift Lead,Onsite,2023-11-24,,1,62500,8,3,No
+EMP-1651,Divya Kapoor,Bengaluru,Data & Analytics,BI Developer,Hybrid,2024-07-27,,1,79000,6,5,No
+EMP-1482,Arjun Patel,Hyderabad,Operations,Shift Lead,Onsite,2022-01-10,,1,74500,,5,No
+EMP-2156,Vidya Narayanan,Bengaluru,Engineering,QA Engineer,Onsite,2021-10-29,,2,152500,8,5,No
+EMP-2128,Varun Krishnan,Pune,HR & Admin,HRBP,Hybrid,2019-07-14,,1,53000,,3,No
+EMP-1084,Rajesh Sharma,Chennai,Operations,Operations Manager,Hybrid,2025-08-28,,1,41000,13,3,No
+EMP-1576,Rohan Narayanan,Hyderabad,Operations,Operations Executive, hybrid,2019-02-02,2026-03-01,3,84500,27,4,Yes
+EMP-1604,Gokul Kumar,Pune,Engineering,Software Engineer,Remote,2022-08-04,,1,125000,2,5,No
+EMP-1341,Nikhil Agarwal, hyderabad ,Engineering,Senior Software Engineer,Hybrid,2020-11-02,,2,111500,2,3,No
+EMP-2081,Kavitha Narayanan,Hyderabad,Customer Support,Senior Support Analyst,Hybrid,2025-04-07,,2,41500,29,4,No
+EMP-1549,Deepak Sharma,Pune,Operations,Operations Executive,Onsite,2023-08-23,,2,55000,31,5,No
+EMP-1217,Deepak Kumar,Bengaluru,Operations,Shift Lead,Onsite,2021-02-06,,2,77000,25,5,No
+EMP-1448,Aarav Pillai,Chennai,Operations,Shift Lead,Onsite,2023-10-04,,2,47000,5,3,No
+EMP-1983,Vidya Sharma,Bengaluru,HR & Admin,Talent Acquisition Specialist,Remote,2020-08-12,,1,92500,3,2,No
+EMP-1115,Riya Narayanan,Chennai,Sales,Inside Sales Rep,Hybrid,2020-06-17,,3,48500,5,3,No
+EMP-1695,Priya Kapoor,Bengaluru,Engineering,QA Engineer,Hybrid,2019-07-18,,1,65500,14,5,No
+EMP-1445,Divya Hegde,Bengaluru,Operations,Shift Lead,Remote,2020-08-15,,3,58000,24,3,No
+EMP-1781,Pranav Kumar,Chennai, ENGINEERING ,Software Engineer,Hybrid,2024-02-07,,1,92000,7,4,No
+EMP-2108,Akash Banerjee,Chennai,Sales,Sales Manager,Remote,2025-12-27,2026-02-27,3,46000,8,2,Yes
+EMP-1822,Priya Patel, chennai ,Operations,Process Associate,Hybrid,2019-02-22,,1,54000,33,3,No
+EMP-1005,Vivek Reddy,Hyderabad,HR & Admin,HR Coordinator,Hybrid,2025-08-22,,4,93000,5,3,No
+EMP-1501,Ananya Narayanan,Chennai,Engineering,Software Engineer,Hybrid,2021-04-28,2026-08-05,1,127000,29,4,Yes
+,Meera Rao,Bengaluru,HR & Admin,HRBP,Hybrid,2023-04-04,,2,71000,26,4,No
+EMP-1535,Kavitha Rao,Hyderabad,Data & Analytics,BI Developer,Hybrid,2024-07-24,2025-11-22,3,63500,29,4,Yes
+EMP-1128,Aditi Subramanian,Bengaluru,Sales,Inside Sales Rep,Onsite,2019-06-16,,3,108000,18,3,No
+EMP-1538,Manoj Krishnan,Bengaluru,Operations,Shift Lead,Hybrid,2022-04-23,,3,55500,11,3,No
+EMP-1362,Neha Kumar,Hyderabad,Sales,Inside Sales Rep,Onsite,2024-08-12,,2,57000,1,3,No
+EMP-1070,Swathi Kulkarni,Bengaluru,HR & Admin,HR Coordinator,Hybrid,2025-02-26,,0,49000,16,3,No
+EMP-2019,Sanjay Nair,Gurugram,Customer Support,Team Lead, hybrid,2024-05-04,,0,68500,13,2,No
+EMP-2132,Neha Verma,Hyderabad,Sales,Inside Sales Rep,Hybrid,2022-03-19,,2,108500,2,3,No
+EMP-1894,Arjun Rao,Bengaluru,Sales,Business Development Lead,Onsite,2025-09-10,,1,109500,6,3,No
+EMP-1442,Ishita Nair,Bengaluru,Customer Support,Team Lead,Hybrid,2022-09-24,,0,66500,26,2,No
+EMP-1194,Swathi Pillai,Chennai,Engineering,Software Engineer,Hybrid,2025-07-21,,2,73000,18,3,No
+EMP-1186,Sanjay Singh,Gurugram,HR & Admin,HR Manager,Hybrid,2022-10-27,,1,62000,19,3,No
+EMP-2008,Vidya Balaji,Pune,Engineering,Tech Lead,Remote,2020-02-17,,0,118500,2,2,No
+EMP-1829,Shruti Sharma,Bengaluru, CUSTOMER SUPPORT ,Escalation Manager,Onsite,2021-11-06,2026-08-14,3,33500,36,2,Yes
+EMP-1232,Meera Nair,Pune,Sales,Business Development Lead,Hybrid,2022-08-08,,4,86000,17,3,No
+EMP-2079,Swathi Nair,Bengaluru,Customer Support,Escalation Manager,Onsite,2025-10-23,2026-07-05,1,73000,8,1,Yes
+EMP-1353,Manoj Hegde,Chennai,Operations,Process Associate,Remote,2022-04-23,2026-06-06,2,64500,26,4,Yes
+EMP-1094,Venkatesh Sen,Chennai,Customer Support,Escalation Manager,Remote,2020-02-15,,1,66500,31,4,No
+EMP-1118,Vidya Chatterjee,Bengaluru,Operations,Shift Lead,Onsite,2019-10-28,,2,53000,2,3,No
+EMP-1901,Karthik Kapoor,Bengaluru,Sales,Sales Manager,Hybrid,2024-04-05,2026-05-08,4,89000,18,4,Yes
+EMP-1002,Vikram Hegde,Chennai,Engineering,Software Engineer,Remote,2024-03-18,2026-05-12,4,156500,6,3,Yes
+EMP-1797,Kavitha Sen,Hyderabad,Operations,Process Associate,Onsite,2024-02-07,,1,73500,20,4,No
+EMP-1611,Aarav Reddy,Bengaluru,Sales,Business Development Lead,Onsite,2021-01-04,,4,63500,28,4,No
+EMP-1026,Rahul Joshi,Pune,Sales,Business Development Lead,Hybrid,2020-04-15,,4,97500,8,3,No
+EMP-1831,Divya Kulkarni,Hyderabad,Customer Support,Senior Support Analyst,Hybrid,2025-03-20,,3,32500,36,2,No
+EMP-1914,Sneha Verma,Pune, ENGINEERING ,QA Engineer,Onsite,2024-05-23,,1,136500,10,3,No
+EMP-1700,Nikhil Kumar,Pune,Engineering,Software Engineer,Hybrid,2022-09-05,,1,158000,15,4,No
+EMP-1080,Vivek Menon,Pune,Customer Support,Senior Support Analyst,Onsite,2020-11-30,2026-10-08,2,58000,11,3,Yes
+EMP-1687,Karthik Rao,Hyderabad,Engineering,Software Engineer,Hybrid,2022-02-26,,0,110500,7,4,No
+EMP-1534,Manoj Prasad,Gurugram,Operations,Operations Manager,Remote,2019-03-16,,1,48500,0,3,No
+EMP-1827,Priya Narayanan,Bengaluru,Customer Support,Escalation Manager,Onsite,2020-10-18,,0,51000,12,4,No
+EMP-2175,Kavitha Subramanian,Bengaluru,HR & Admin,HR Manager,Remote,2021-02-04,,0,66000,6,3,No
+EMP-1469,Akash Menon, bengaluru ,Operations,Operations Executive,Onsite,2022-08-29,2026-02-28,3,39000,15,4,Yes
+EMP-2141,Pooja Iyer, bengaluru ,Customer Support,Support Specialist,Remote,2021-03-14,,0,54000,20,4,No
+EMP-1711,Riya Mohan,Chennai, CUSTOMER SUPPORT ,Team Lead,Onsite,2019-04-27,,0,63500,36,5,No
+EMP-1184,Ananya Joshi,Pune,Operations,Shift Lead,Hybrid,2022-05-22,,1,51000,17,3,No
+EMP-1430,Rahul Hegde,Hyderabad,Engineering,QA Engineer,Hybrid,2020-01-21,,3,137000,17,3,No
+EMP-1247,Pranav Iyer,Chennai,Operations,Process Associate,Onsite,2020-03-01,,4,74000,33,3,No
+EMP-1819,Deepak Kannan,Bengaluru,Data & Analytics,Senior Data Analyst,Remote,2022-08-13,,1,110500,22,4,No
+EMP-1851,Swathi Nair,Pune,Customer Support,Escalation Manager,Hybrid,2019-03-13,,1,70500,6,3,No
+EMP-1405,Sanjay Banerjee,Hyderabad,HR & Admin,HR Coordinator,Hybrid,2025-12-18,,4,65000,7,3,No
+EMP-1172,Manoj Mohan,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2025-09-22,,0,128500,,4,No
+EMP-1320,Priya Banerjee,Bengaluru,Sales,Business Development Lead,Hybrid,2024-06-26,,2,115500,2,4,No
+EMP-1434,Venkatesh Kumar,Hyderabad,Customer Support,Team Lead,Remote,2019-07-27,,4,41500,23,2,No
+EMP-1889,Deepak Banerjee,Gurugram,HR & Admin,Talent Acquisition Specialist,Onsite,2025-01-29,2025-11-21,0,61000,,5,Yes
+EMP-2024,Akash Subramanian,Chennai,Sales,Inside Sales Rep,Remote,2020-07-02,,2,59000,19,4,No
+EMP-1176,Vikram Iyer,Bengaluru,Operations,Operations Executive,Onsite,2020-07-06,,2,69500,32,3,No
+EMP-2071,Sanjay Agarwal,Hyderabad,Data & Analytics,BI Developer,Hybrid,2023-12-26,,2,125500,23,4,No
+EMP-1191,Harish Agarwal,Bengaluru,Data & Analytics,BI Developer,Hybrid,2024-11-15,2025-12-16,4,73500,,3,Yes
+EMP-1870,Rohan Sen,Chennai,Operations,Shift Lead,Hybrid,2025-08-14,,1,50500,2,4,No
+EMP-1332,Karthik Mehta, bengaluru ,Data & Analytics,Senior Data Analyst,Remote,2019-04-15,,1,127500,2,3,No
+EMP-1462,Priya Kannan,Hyderabad,Customer Support,Support Specialist,Onsite,2024-11-17,2026-07-31,2,45500,36,2,Yes
+EMP-1557,Nikhil Singh,Hyderabad,Sales,Business Development Lead,Hybrid,2022-08-23,,3,82000,16,1,No
+EMP-1665,Aarav Raja,Pune,Customer Support,Support Specialist, onsite,2020-11-25,2026-07-02,2,52500,2,3,Yes
+EMP-1577,Pooja Singh,Chennai,Operations,Operations Executive,Hybrid,2019-04-18,,3,64000,12,1,No
+EMP-1648,Rohan Rao,Pune,HR & Admin,HR Coordinator, hybrid,2024-10-06,,1,54500,,3,No
+EMP-1468,Pranav Mohan,Bengaluru,Sales,Sales Manager,Onsite,2025-08-02,,3,71500,2,3,No
+EMP-1738,Nikhil Menon,Chennai,Operations,Shift Lead,Onsite,2021-02-28,2026-05-01,0,66500,20,4,Yes
+EMP-2055,Suresh Narayanan,Bengaluru,Customer Support,Team Lead,Hybrid,2022-11-13,2026-07-20,2,43500,35,3,Yes
+EMP-1007,Gokul Narayanan,Bengaluru,Data & Analytics,Data Analyst,Hybrid,2024-03-16,,2,144000,6,3,No
+EMP-1776,Pooja Kulkarni,Chennai,Customer Support,Escalation Manager,Hybrid,2023-03-19,,1,33000,0,3,No
+EMP-1140,Pranav Krishnan,Chennai,Sales,Business Development Lead,Hybrid,2023-07-11,,4,73500,2,3,No
+EMP-1226,Karthik Balaji,Pune,Customer Support,Escalation Manager,Hybrid,2021-01-25,2026-02-07,0,62500,13,4,Yes
+EMP-1958,Pranav Deshmukh,Hyderabad,Operations,Process Associate,Onsite,2025-05-23,,0,77500,3,1,No
+EMP-1718,Gokul Rao, pune ,Customer Support,Escalation Manager,Onsite,2022-08-16,,1,52000,38,3,No
+EMP-1394,Aditi Raman,Bengaluru, OPERATIONS ,Operations Executive,Onsite,2022-11-19,,1,51500,19,4,No
+EMP-1091,Karthik Pillai,Hyderabad,Engineering,Tech Lead,Onsite,2019-09-02,,1,149500,5,4,No
+EMP-2112,Swathi Agarwal,Bengaluru,Operations,Shift Lead,Onsite,2019-04-03,,2,39500,32,3,No
+EMP-2006,Ishita Nair,Bengaluru,HR & Admin,HRBP,Remote,2021-11-18,,2,77500,4,4,No
+EMP-1015,Ananya Kannan,Hyderabad,HR & Admin,HR Coordinator,Hybrid,2023-11-13,,1,75000,7,4,No
+EMP-1249,Rohan Chatterjee,Hyderabad,Data & Analytics,Data Analyst,Onsite,2025-06-18,,1,142000,10,3,No
+EMP-1095,Ananya Kulkarni,Hyderabad,Customer Support,Team Lead,Hybrid,2021-08-31,,2,50500,19,2,No
+EMP-1523,Sneha Verma,Pune,Engineering,Tech Lead,Onsite,2020-06-27,,3,68000,5,3,No
+EMP-1424,Rohan Chatterjee,Hyderabad,Engineering,QA Engineer,Hybrid,2022-12-22,,2,156500,8,4,No
+EMP-1570,Vikram Menon,Bengaluru,Operations,Operations Executive,Onsite,2024-04-12,,3,64000,26,3,No
+EMP-1935,Venkatesh Sharma,Chennai,Sales,Business Development Lead,Hybrid,2019-12-03,,1,70000,1,5,No
+EMP-1653,Shruti Narayanan,Hyderabad,Data & Analytics,BI Developer,Onsite,2023-05-13,2026-05-11,1,102500,0,2,Yes
+EMP-2139,Rajesh Kannan,Chennai,Operations,Process Associate,Onsite,2021-03-14,,3,62500,15,3,No
+EMP-1251,Pooja Patel,Pune,Engineering,Senior Software Engineer,Remote,2020-02-19,,2,91500,5,5,No
+EMP-2086,Ananya Rao,Hyderabad,Operations,Operations Executive,Remote,2022-09-25,,3,50500,26,3,No
+EMP-1887,Varun Sen,Chennai,Customer Support,Team Lead,Onsite,2020-07-22,2026-06-06,4,55000,31,3,Yes
+EMP-1432,Harish Iyer,Chennai,Operations,Process Associate,Onsite,2021-01-21,,0,52000,12,3,No
+EMP-1659,Swathi Kumar,Hyderabad,Customer Support,Escalation Manager,Hybrid,2021-11-01,,0,74500,6,4,No
+EMP-1041,Pranav Kapoor,Hyderabad,Sales,Sales Manager,Remote,2023-10-11,2026-10-21,3,55000,11,4,Yes
+EMP-1586,Harish Joshi,Hyderabad,Sales,Inside Sales Rep,Hybrid,2019-04-01,,2,66000,0,3,No
+EMP-1796,Akash Balaji,Chennai, SALES ,Inside Sales Rep,Onsite,2024-01-07,2026-06-22,2,62500,1,2,Yes
+EMP-1016,Vivek Patel,Chennai, SALES ,Account Executive,Remote,2023-05-08,,1,67000,6,2,No
+EMP-1072,Arjun Sen,Pune,Sales,Business Development Lead,Onsite,2024-09-10,,0,63500,,3,No
+EMP-1910,Ishita Menon,Chennai,Data & Analytics,Analytics Manager, hybrid,2022-10-15,,3,92500,4,5,No
+EMP-2119,Siddharth Banerjee,Pune,HR & Admin,HRBP,Remote,2020-03-22,,1,51500,8,4,No
+EMP-1316,Suresh Sen,Gurugram,HR & Admin,Talent Acquisition Specialist, hybrid,2019-02-18,,1,77500,6,3,No
+EMP-1780,Rohan Sharma,Gurugram,Data & Analytics,Senior Data Analyst,Remote,2024-10-14,,1,114500,3,3,No
+EMP-1990,Siddharth Rao,Hyderabad,Data & Analytics,BI Developer,Remote,2022-09-10,,3,80000,5,3,No
+EMP-1154,Harish Singh,Bengaluru,Customer Support,Senior Support Analyst,Onsite,2022-03-20,,3,49000,7,2,No
+EMP-1587,Bhavna Narayanan,Gurugram,HR & Admin,HRBP,Remote,2023-03-02,,1,85500,18,3,No
+EMP-1678,Deepak Verma,Pune,Operations,Operations Executive,Onsite,2021-05-22,2026-04-10,1,42000,7,3,Yes
+EMP-1192,Bhavna Reddy,Hyderabad,Engineering,QA Engineer,Remote,2025-09-13,,0,151500,13,3,No
+EMP-2109,Kavitha Verma,Chennai,Operations,Process Associate,Onsite,2025-09-18,,2,38000,1,2,No
+EMP-1185,Bhavna Kannan,Bengaluru,Customer Support,Team Lead,Onsite,2020-07-11,,2,53500,34,4,No
+EMP-1597,Aditi Iyer,Gurugram,Customer Support,Escalation Manager,Onsite,2023-07-13,,2,49000,24,3,No
+EMP-1732,Pooja Reddy,Chennai,Operations,Shift Lead,Hybrid,2025-09-23,,3,76000,21,3,No
+EMP-1261,Swathi Krishnan,Hyderabad,Data & Analytics,Data Analyst,Hybrid,2023-07-07,,1,55500,30,3,No
+EMP-1551,Kavitha Banerjee,Bengaluru,Data & Analytics,Senior Data Analyst,Hybrid,2022-11-10,,0,71500,8,3,No
+EMP-1471,Siddharth Singh,Chennai,Operations,Process Associate,Onsite,2023-02-24,,4,73500,17,3,No
+EMP-2125,Pooja Sen,Chennai,Sales,Business Development Lead,Remote,2019-03-01,,1,112000,8,4,No
+EMP-1293,Aditi Chatterjee,Hyderabad,Data & Analytics,Senior Data Analyst,Remote,2023-07-28,,1,114000,7,2,No
+EMP-2168,Rahul Kumar,Bengaluru,HR & Admin,HR Coordinator,Hybrid,2022-10-19,,1,42000,3,5,No
+EMP-1401,Rohan Rao,Pune,Engineering,Senior Software Engineer,Remote,2023-12-08,2025-11-22,2,98000,30,5,Yes
+EMP-1134,Manoj Nair,Chennai,Customer Support,Escalation Manager,Hybrid,2024-06-16,,3,32500,33,3,No
+EMP-1262,Akash Chatterjee,Chennai,Operations,Operations Manager, hybrid,2019-02-24,,3,48000,3,3,No
+EMP-1321,Vikram Raman,Gurugram,Engineering,Senior Software Engineer,Remote,2021-01-17,,0,105500,5,3,No
+EMP-1389,Aditi Raja,Hyderabad,Engineering,Tech Lead,Remote,2024-06-23,,2,76000,27,5,No
+EMP-1218,Rajesh Reddy,Hyderabad,HR & Admin,HR Manager,Hybrid,2022-09-12,,1,48500,31,5,No
+EMP-1928,Varun Sharma,Hyderabad,Engineering,Senior Software Engineer,Hybrid,2023-03-02,2026-07-12,0,90000,28,3,Yes
+EMP-1075,Bhavna Rao,Chennai,Engineering,Software Engineer,Hybrid,2022-04-05,,3,97000,2,3,No
+EMP-2195,Kavitha Krishnan,Bengaluru,Operations,Operations Manager,Onsite,2025-04-17,,1,66000,7,3,No
+EMP-2095,Akash Narayanan,Hyderabad,Operations,Shift Lead,Onsite,2025-10-19,,1,38000,36,3,No
+EMP-1939,Ishita Nair,Hyderabad,Customer Support,Escalation Manager,Onsite,2021-06-24,2026-06-02,3,62500,7,3,Yes
+EMP-1165,Vivek Chatterjee,Gurugram,Customer Support,Senior Support Analyst,Onsite,2024-02-06,,0,41000,14,3,No
+EMP-1730,Deepak Prasad,Gurugram,Engineering,Senior Software Engineer,Remote,2023-05-07,2026-10-05,4,79000,32,2,Yes
+EMP-1009,Neha Narayanan,Pune,Engineering,Software Engineer,Remote,2022-08-27,,3,148500,8,3,No
+EMP-1336,Varun Agarwal,Pune,Operations,Operations Executive,Onsite,2021-05-03,2026-02-19,2,59000,19,4,Yes
+EMP-1962,Lakshmi Patel,Gurugram,Data & Analytics,Data Analyst,Remote,2020-08-28,,1,78000,11,5,No
+EMP-1161,Meera Kapoor,Pune,Customer Support,Team Lead,Onsite,2024-06-06,,1,37000,8,2,No
+EMP-1387,Ananya Balaji,Gurugram,Sales,Account Executive,Onsite,2021-12-21,,2,59500,4,4,No
+EMP-1470,Divya Narayanan,Hyderabad,Engineering,QA Engineer,Hybrid,2024-12-27,,2,96000,15,4,No
+EMP-1503,Ishita Subramanian,Chennai,Data & Analytics,Data Analyst,Onsite,2024-07-21,,3,77500,3,5,No
+EMP-1970,Sanjay Narayanan,Hyderabad,Customer Support,Team Lead,Onsite,2024-10-22,,3,47000,26,5,No
+EMP-2087,Priya Chatterjee, hyderabad ,Customer Support,Senior Support Analyst,Onsite,2024-11-08,,2,38000,19,4,No
+EMP-1022,Nikhil Raman,Hyderabad,Data & Analytics,BI Developer,Onsite,2023-01-15,2025-12-20,1,121000,7,3,Yes
+EMP-1231,Shruti Joshi,Bengaluru,Engineering,Tech Lead,Hybrid,2022-11-29,,1,118000,19,3,No
+EMP-1384,Arjun Menon,Gurugram,Engineering,Tech Lead,Hybrid,2019-04-26,2025-11-26,0,125500,18,5,Yes
+EMP-1790,Swathi Singh,Chennai,Data & Analytics,BI Developer,Hybrid,2019-02-08,2026-03-31,1,74000,27,5,Yes
+EMP-1595,Deepak Menon,Bengaluru,Engineering,Senior Software Engineer,Remote,2019-08-03,,0,159000,8,4,No
+EMP-2117,Swathi Mehta,Chennai,Operations,Operations Manager,Onsite,2020-05-25,,3,78500,8,4,No
+EMP-1296,Vikram Deshmukh,Chennai,Sales,Sales Manager,Hybrid,2021-11-05,,1,50500,23,4,No
+EMP-1756,Vivek Menon,Bengaluru,Data & Analytics,Data Analyst,Onsite,2020-02-13,,2,123000,7,5,No
+EMP-1993,Nikhil Narayanan,Hyderabad,Operations,Operations Executive,Remote,2020-07-05,,0,74000,17,3,No
+EMP-1679,Lakshmi Reddy,Pune,Engineering,Software Engineer,Hybrid,2020-09-25,,2,81500,26,4,No
+,Shruti Patel,Bengaluru,Sales,Inside Sales Rep,Hybrid,2020-10-21,,1,79500,11,4,No
+EMP-1129,Meera Nair,Hyderabad,Data & Analytics,BI Developer,Hybrid,2022-06-26,,2,110000,2,4,No
+EMP-1697,Sanjay Raman, hyderabad ,Engineering,Software Engineer,Remote,2019-01-26,,0,78500,13,5,No
+EMP-1712,Harish Balaji,Bengaluru,Customer Support,Escalation Manager,Onsite,2024-12-31,,2,44500,28,5,No
+EMP-1274,Vivek Deshmukh,Pune,Engineering,Software Engineer,Onsite,2021-01-01,2026-02-08,1,96500,30,4,Yes
+EMP-1513,Ishita Sharma,Chennai, DATA & ANALYTICS ,Senior Data Analyst,Hybrid,2022-08-05,,1,110500,8,4,No
+EMP-1491,Siddharth Menon,Pune,Customer Support,Senior Support Analyst,Onsite,2024-12-03,,1,56000,13,3,No
+EMP-2010,Gokul Sen,Pune,Customer Support,Senior Support Analyst,Hybrid,2023-06-15,,1,61000,17,5,No
+EMP-1713,Vidya Iyer,Bengaluru,Data & Analytics,Senior Data Analyst,Hybrid,2021-04-27,2026-01-25,2,91000,13,4,Yes
+EMP-1041,Pranav Kapoor,Hyderabad,Sales,Sales Manager,Remote,2023-10-11,2026-10-21,3,55000,11,4,Yes
+EMP-2049,Deepak Sen,Pune,Engineering,Senior Software Engineer,Hybrid,2020-04-14,,1,96500,6,4,No
+EMP-1489,Sneha Kumar,Gurugram,Sales,Inside Sales Rep,Hybrid,2025-06-15,,4,82000,5,3,No
+EMP-2129,Karthik Rao,Hyderabad,Operations,Operations Executive,Onsite,2025-08-31,2026-09-09,1,78500,32,3,Yes
+EMP-1890,Manoj Reddy,Pune,Engineering,Senior Software Engineer,Hybrid,2022-09-03,,1,97000,19,3,No
+EMP-1397,Ananya Iyer,Bengaluru,Engineering,Tech Lead, onsite,2020-01-11,,2,95500,6,3,No
+EMP-1560,Sanjay Pillai, pune ,Engineering,QA Engineer,Onsite,2019-08-21,,3,69000,12,5,No
+EMP-1076,Manoj Kumar,Pune,Data & Analytics,Data Analyst,Hybrid,2024-05-18,2026-01-14,2,72000,8,1,Yes
+EMP-1759,Venkatesh Raja,Hyderabad,Engineering,Senior Software Engineer,Remote,2020-11-28,,2,67000,2,5,No
+EMP-1981,Meera Agarwal,Gurugram,Operations,Operations Executive, hybrid,2019-08-09,,1,47000,17,2,No
+EMP-1794,Kavitha Sharma,Hyderabad,Customer Support,Team Lead,Remote,2020-05-12,,1,33000,28,5,No
+EMP-1585,Rajesh Narayanan,Hyderabad, ENGINEERING ,QA Engineer,Onsite,2021-09-05,,3,120500,3,4,No
+EMP-1408,Arjun Kulkarni,Hyderabad,Customer Support,Escalation Manager,Remote,2025-10-25,,0,34500,30,2,No
+EMP-1907,Divya Agarwal,Bengaluru,Sales,Business Development Lead,Remote,2021-08-17,,2,75000,5,4,No
+EMP-1821,Karthik Joshi,Bengaluru,Operations,Operations Manager,Remote,2022-10-21,,1,53000,0,2,No
+EMP-1014,Swathi Reddy,Pune,HR & Admin,HRBP,Hybrid,2021-03-02,,0,63000,27,4,No
+EMP-1592,Nikhil Agarwal,Bengaluru,Data & Analytics,Analytics Manager,Hybrid,2022-02-25,,2,96500,,5,No
+EMP-1584,Riya Kannan,Bengaluru,Engineering,Software Engineer,Hybrid,2025-07-25,,1,81500,6,3,No
+EMP-1499,Sneha Prasad,Bengaluru,HR & Admin,HRBP,Hybrid,2019-08-13,,2,94500,6,4,No
+EMP-1418,Swathi Kapoor, bengaluru ,Sales,Inside Sales Rep,Hybrid,2019-03-02,,2,104500,2,4,No
+EMP-1868,Kavitha Raja,Chennai, OPERATIONS ,Shift Lead,Hybrid,2025-01-29,2026-05-27,0,83500,29,3,Yes
+EMP-2182,Aditi Sen,Pune,Engineering,Software Engineer,Remote,2019-11-18,,2,76000,15,3,No
+EMP-2035,Nikhil Mehta,Pune,Engineering,Tech Lead,Hybrid,2022-07-26,2026-04-26,2,143500,0,3,Yes
+EMP-1919,Rohan Mohan,Bengaluru,Customer Support,Escalation Manager,Hybrid,2020-01-22,,4,45500,13,4,No
+EMP-1371,Pooja Joshi, pune ,Customer Support,Team Lead,Onsite,2024-09-21,2025-12-02,0,54000,38,3,Yes
+EMP-1793,Riya Banerjee,Bengaluru,Data & Analytics,Analytics Manager,Hybrid,2019-09-22,,4,80000,22,3,No
+EMP-1151,Akash Banerjee,Chennai,HR & Admin,HRBP,Hybrid,2022-04-08,,0,60000,23,5,No
+EMP-1349,Neha Mehta,Bengaluru,Data & Analytics,BI Developer,Onsite,2025-10-17,,1,104500,8,4,No
+EMP-1581,Kavitha Joshi,Pune,Engineering,QA Engineer,Hybrid,2024-02-13,,1,126500,16,2,No
+EMP-1849,Shruti Sharma,Pune,Customer Support,Escalation Manager,Onsite,2024-06-06,,2,62000,4,3,No
+EMP-1374,Karthik Subramanian,Chennai,Data & Analytics,Senior Data Analyst,Onsite,2022-06-22,,1,59000,4,3,No
+EMP-1250,Swathi Krishnan,Chennai,Data & Analytics,Data Analyst,Hybrid,2024-11-13,2026-09-12,0,142000,,4,Yes
+EMP-1769,Neha Prasad,Chennai,HR & Admin,HR Manager, hybrid,2023-10-10,,0,81500,18,2,No
+EMP-1355,Harish Menon,Chennai, CUSTOMER SUPPORT ,Escalation Manager,Remote,2022-08-07,,0,61000,4,4,No
+EMP-1368,Divya Krishnan,Pune,Customer Support,Escalation Manager,Onsite,2023-08-28,,2,72000,38,5,No
+EMP-1999,Rohan Deshmukh,Bengaluru,Operations,Shift Lead,Onsite,2019-04-06,,1,81000,6,3,No
+EMP-1679,Lakshmi Reddy,Pune,Engineering,Software Engineer,Hybrid,2020-09-25,,2,81500,26,4,No
+EMP-1632,Ananya Narayanan,Bengaluru,Operations,Operations Executive, onsite,2022-11-08,,0,58000,30,1,No
+EMP-1631,Nikhil Singh,Gurugram,Customer Support,Senior Support Analyst,Hybrid,2025-06-06,,4,57000,29,3,No
+EMP-1345,Gokul Kumar,Chennai,Engineering,Software Engineer,Hybrid,2023-01-21,,0,76000,18,2,No
+EMP-1670,Divya Joshi,Bengaluru,Engineering,Tech Lead, hybrid,2023-08-10,,4,107000,0,3,No
+EMP-1227,Shruti Pillai,Hyderabad,Engineering,Tech Lead,Remote,2021-04-22,,0,135000,7,5,No
+EMP-1097,Lakshmi Kumar, gurugram ,Engineering,Senior Software Engineer,Remote,2024-04-06,2025-12-30,3,75000,11,5,Yes
+EMP-1629,Siddharth Prasad,Bengaluru,Engineering,Tech Lead,Hybrid,2024-04-16,,0,160500,8,3,No
+EMP-1642,Rohan Sen,Chennai,Engineering,Senior Software Engineer,Remote,2023-07-12,,3,107500,13,3,No
+EMP-1308,Lakshmi Reddy,Chennai,Customer Support,Team Lead,Hybrid,2024-10-21,,2,40000,20,1,No
+EMP-1556,Bhavna Kulkarni,Bengaluru,Operations,Operations Executive,Hybrid,2025-07-28,,1,71000,26,4,No
+EMP-1074,Sneha Mohan,Gurugram,HR & Admin,HR Coordinator,Remote,2021-11-18,,4,75500,5,5,No
+EMP-1066,Pooja Rao,Hyderabad,Operations,Process Associate,Remote,2022-08-24,,0,77000,34,3,No
+EMP-1292,Shruti Sharma,Chennai,Operations,Shift Lead,Hybrid,2020-04-02,,0,37500,10,5,No
+EMP-2200,Vikram Pillai,Pune,HR & Admin,HRBP,Hybrid,2023-03-19,,1,67000,11,3,No
+EMP-2001,Varun Hegde,Hyderabad,Sales,Account Executive,Hybrid,2022-02-04,,0,75000,4,4,No
+EMP-1627,Akash Iyer,Hyderabad,Sales,Business Development Lead,Hybrid,2020-07-07,,3,117000,12,3,No
+EMP-1519,Pranav Balaji, bengaluru ,Engineering,Senior Software Engineer,Hybrid,2019-05-22,2026-10-08,3,120500,0,3,Yes
+EMP-1047,Karthik Singh,Chennai,Engineering,QA Engineer,Remote,2023-10-28,2026-02-01,2,104000,3,2,Yes
+EMP-1439,Gokul Singh,Chennai,Customer Support,Escalation Manager,Hybrid,2022-08-13,2025-12-19,1,70500,37,4,Yes
+EMP-1856,Vikram Iyer,Pune,HR & Admin,HR Coordinator,Onsite,2020-09-30,,3,80000,11,3,No
+EMP-1842,Swathi Mohan,Chennai,Sales,Account Executive,Hybrid,2025-03-07,,0,70500,7,3,No
+EMP-2131,Pooja Iyer,Hyderabad,Engineering,Senior Software Engineer,Onsite,2019-07-17,2026-08-19,4,100500,6,3,Yes
+EMP-1357,Rohan Prasad,Bengaluru,Operations,Shift Lead,Hybrid,2025-10-31,,0,52500,26,5,No
+EMP-1285,Bhavna Deshmukh,Bengaluru,HR & Admin,HRBP,Hybrid,2025-02-21,,3,87500,10,3,No
+EMP-1004,Manoj Banerjee,Chennai,Customer Support,Team Lead,Hybrid,2022-01-06,,1,45500,11,3,No
+EMP-1122,Deepak Nair,Bengaluru,Customer Support,Escalation Manager,Hybrid,2024-03-17,,2,53500,13,3,No
+EMP-1593,Deepak Sharma,Bengaluru, DATA & ANALYTICS ,BI Developer,Hybrid,2024-08-15,,2,124500,,4,No
+EMP-1707,Sanjay Kannan,Bengaluru,Operations,Process Associate,Onsite,2024-01-31,,0,48500,29,3,No
+EMP-1209,Bhavna Kapoor,Hyderabad,Sales,Account Executive,Hybrid,2025-04-11,2026-10-17,3,71000,21,3,Yes
+EMP-2096,Aditi Kannan,Chennai,Engineering,QA Engineer,Remote,2023-08-13,,1,78000,24,4,No
+EMP-1739,Aditi Mehta,Bengaluru,Customer Support,Escalation Manager,Onsite,2021-03-07,,3,60000,12,5,No
+EMP-1792,Lakshmi Iyer,Gurugram,HR & Admin,HRBP,Remote,2019-09-19,,3,69000,,4,No
+EMP-1312,Nikhil Mohan,Chennai,Operations,Shift Lead, onsite,2022-12-22,,3,50500,8,4,No
+EMP-1222,Akash Raman,Chennai,Customer Support,Support Specialist, hybrid,2024-02-04,,4,56500,37,3,No
+EMP-2039,Bhavna Balaji,Pune,Customer Support,Escalation Manager,Onsite,2019-11-20,,0,48500,22,3,No
+EMP-1694,Arjun Kapoor,Pune,Customer Support,Escalation Manager, onsite,2022-05-30,2026-01-08,4,45000,10,3,Yes
+EMP-1295,Venkatesh Rao,Bengaluru,Operations,Operations Executive,Hybrid,2019-02-08,,0,74500,36,4,No
+EMP-1953,Sneha Iyer,Chennai,Sales,Business Development Lead,Hybrid,2025-05-14,,1,118000,10,1,No
+EMP-1938,Arjun Kapoor,Bengaluru,HR & Admin,HR Manager,Hybrid,2020-08-12,,2,64500,7,4,No
+EMP-1050,Manoj Pillai,Bengaluru,Engineering,Tech Lead,Hybrid,2019-05-27,,4,121000,4,2,No
+EMP-1572,Meera Singh,Chennai,Customer Support,Support Specialist,Onsite,2023-11-05,,0,36000,25,3,No
+EMP-1770,Lakshmi Krishnan,Chennai,Customer Support,Team Lead,Onsite,2019-06-15,2025-12-04,0,47500,36,3,Yes
+EMP-1877,Meera Kannan,Pune,Engineering,Tech Lead, onsite,2023-03-19,,1,111000,1,4,No
+EMP-2045,Shruti Sharma,Chennai,Customer Support,Senior Support Analyst,Onsite,2024-06-17,,1,66500,1,3,No
+EMP-1923,Akash Rao, chennai ,Operations,Operations Executive,Hybrid,2025-05-29,,0,56500,1,3,No
+EMP-1660,Aditi Reddy,Bengaluru,Engineering,Software Engineer,Hybrid,2025-11-17,2026-01-26,4,164000,4,3,Yes
+EMP-2107,Vidya Kumar,Hyderabad,Sales,Account Executive,Hybrid,2023-11-06,,3,80000,6,3,No
+EMP-1691,Kavitha Kapoor,Bengaluru,Sales,Account Executive,Hybrid,2025-08-15,,3,112000,4,4,No
+EMP-1605,Kavitha Menon,Hyderabad,Customer Support,Support Specialist,Onsite,2024-05-06,2025-12-14,4,56500,6,3,Yes
+EMP-1761,Divya Kumar,Pune,Sales,Account Executive,Remote,2025-06-29,,2,54500,17,3,No
+EMP-1726,Nikhil Kannan,Bengaluru,Data & Analytics,Analytics Manager,Hybrid,2021-03-27,2025-12-10,1,74500,0,3,Yes
+EMP-2163,Sanjay Sen,Bengaluru,Sales,Account Executive,Onsite,2022-05-04,,0,62500,2,4,No
+EMP-1051,Lakshmi Joshi,Hyderabad,Operations,Shift Lead, onsite,2024-03-30,,1,35000,17,4,No
+EMP-2126,Akash Krishnan,Hyderabad,Operations,Shift Lead,Hybrid,2019-11-25,2026-03-25,3,61500,7,4,Yes
+EMP-1610,Akash Raja,Hyderabad,Engineering,Software Engineer,Onsite,2025-08-10,,2,76000,1,3,No
+EMP-1475,Swathi Menon,Bengaluru,HR & Admin,HR Manager,Remote,2024-11-15,,1,94000,2,4,No
+EMP-1133,Neha Menon,Bengaluru,Operations,Process Associate,Remote,2022-12-15,,0,44000,1,5,No
+EMP-1196,Arjun Raman,Hyderabad,Data & Analytics,BI Developer,Hybrid,2025-01-12,,1,112000,17,4,No
+EMP-1902,Harish Reddy,Gurugram,Engineering,Tech Lead,Hybrid,2025-05-05,,1,128000,18,3,No
+EMP-1454,Ishita Verma,Bengaluru,Operations,Shift Lead,Onsite,2021-06-20,2026-04-21,2,43000,16,3,Yes
+EMP-1784,Ishita Singh,Bengaluru,Sales,Account Executive,Remote,2020-06-12,,2,67500,17,3,No
+EMP-1915,Ishita Menon,Gurugram,Customer Support,Senior Support Analyst,Remote,2023-05-19,,1,32500,6,3,No
+EMP-1505,Vivek Reddy,Bengaluru,Sales,Business Development Lead,Remote,2019-10-03,,2,80000,18,5,No
+EMP-1045,Meera Menon,Bengaluru,Engineering,Senior Software Engineer,Onsite,2020-06-30,,2,123500,0,3,No
+EMP-2042,Aditi Rao,Gurugram,Engineering,Tech Lead,Onsite,2025-12-01,2026-03-14,2,106500,11,3,Yes
+EMP-1874,Kavitha Menon,Pune,Engineering,Senior Software Engineer,Onsite,2020-01-19,2026-09-21,2,134000,0,5,Yes
+EMP-1033,Vidya Mehta,Hyderabad,Sales,Sales Manager,Onsite,2020-05-04,,1,101000,17,3,No
+EMP-1348,Ananya Reddy, gurugram ,Sales,Business Development Lead,Hybrid,2024-10-02,,2,85000,7,3,No
+EMP-1633,Priya Singh,Bengaluru,Customer Support,Support Specialist,Onsite,2023-03-04,,2,64000,5,4,No
+EMP-1649,Bhavna Chatterjee,Chennai,Operations,Operations Manager,Onsite,2019-04-11,2025-12-08,1,47000,29,4,Yes
+EMP-1451,Shruti Patel,Pune,Customer Support,Escalation Manager,Hybrid,2024-06-23,,0,64500,37,3,No
+EMP-1266,Vivek Sen,Chennai,Operations,Process Associate,Onsite,2024-07-06,2026-01-17,1,81500,37,2,Yes
+EMP-1992,Neha Subramanian,Chennai,Operations,Operations Manager,Onsite,2021-08-04,,1,35000,28,5,No
+EMP-1850,Priya Hegde,Pune,Customer Support,Senior Support Analyst,Onsite,2019-01-28,,0,65000,7,4,No
+EMP-1703,Kavitha Verma,Bengaluru,Operations,Process Associate,Remote,2019-07-12,,2,77500,34,3,No
+EMP-2058,Arjun Kapoor,Gurugram, OPERATIONS ,Process Associate,Onsite,2023-04-06,,2,84500,38,3,No
+EMP-2194,Deepak Kannan,Bengaluru,HR & Admin,HR Coordinator,Remote,2021-12-17,,2,58000,4,3,No
+EMP-1356,Nikhil Subramanian,Hyderabad,Operations,Shift Lead,Hybrid,2025-09-16,,2,58500,17,4,No
+EMP-2007,Akash Verma, gurugram ,Operations,Process Associate,Onsite,2020-07-04,,3,79500,37,3,No
+EMP-1737,Rahul Agarwal,Pune,Sales,Account Executive,Hybrid,2025-03-08,2026-09-06,2,119000,21,4,Yes
+EMP-1220,Bhavna Deshmukh,Hyderabad,Engineering,QA Engineer,Hybrid,2023-01-10,,0,92500,3,1,No
+EMP-2009,Pranav Patel,Hyderabad,Customer Support,Escalation Manager,Onsite,2025-09-25,,3,52500,7,4,No
+EMP-1114,Bhavna Kulkarni,Hyderabad,HR & Admin,Talent Acquisition Specialist,Onsite,2025-04-10,,2,76000,24,5,No
+EMP-1328,Pranav Agarwal,Bengaluru,Engineering,Software Engineer,Onsite,2019-11-02,,0,133500,14,5,No
+EMP-1081,Bhavna Deshmukh,Chennai,Customer Support,Team Lead,Onsite,2019-10-06,,1,36000,30,4,No
+EMP-1985,Shruti Deshmukh,Hyderabad,Sales,Business Development Lead,Hybrid,2021-02-27,,2,50500,,3,No
+EMP-1926,Swathi Kannan,Bengaluru, DATA & ANALYTICS ,Senior Data Analyst,Remote,2019-06-11,,4,130000,20,3,No
+EMP-1832,Neha Chatterjee,Hyderabad,Operations,Operations Executive,Onsite,2025-05-01,,4,54000,10,4,No
+EMP-1778,Shruti Sharma,Chennai, HR & ADMIN ,HRBP,Hybrid,2019-05-28,,3,92000,,3,No
+EMP-1428,Arjun Singh,Pune,Engineering,Software Engineer,Hybrid,2023-12-30,,2,103000,1,3,No
+EMP-2197,Manoj Deshmukh,Bengaluru,Operations,Operations Manager,Onsite,2023-01-11,,4,71000,37,4,No
+EMP-2113,Kavitha Singh,Bengaluru,Operations,Shift Lead,Remote,2022-06-24,,1,58500,31,3,No
+EMP-1061,Shruti Nair,Bengaluru,Engineering,Tech Lead,Hybrid,2024-04-17,,1,130000,28,2,No
+EMP-1366,Karthik Raja,Chennai,Customer Support,Senior Support Analyst,Onsite,2019-07-09,,1,71500,4,3,No
+EMP-1580,Vivek Deshmukh,Pune,Operations,Operations Executive,Onsite,2020-10-05,,2,55500,13,3,No
+EMP-1813,Deepak Mohan,Pune, CUSTOMER SUPPORT ,Support Specialist,Onsite,2021-06-19,,1,33000,15,3,No
+EMP-1804,Gokul Mohan,Hyderabad,Customer Support,Escalation Manager,Onsite,2025-08-15,,1,53000,1,3,No
+EMP-1322,Gokul Balaji,Bengaluru,Engineering,Tech Lead,Remote,2020-08-25,,1,104500,0,1,No
+EMP-2016,Shruti Kulkarni,Pune,Operations,Process Associate,Remote,2023-08-22,,1,35000,12,2,No
+EMP-1187,Ananya Nair,Chennai,Data & Analytics,Analytics Manager,Hybrid,2024-03-24,,2,113000,7,2,No
+EMP-1139,Sneha Pillai,Bengaluru,Customer Support,Support Specialist,Onsite,2021-12-20,,1,47500,11,3,No
+EMP-1922,Sanjay Kapoor,Pune,Operations,Operations Manager,Onsite,2023-03-31,,3,83500,30,3,No
+EMP-1085,Bhavna Chatterjee,Chennai,Operations,Operations Executive,Onsite,2022-12-13,,1,64000,17,3,No
+EMP-2149,Karthik Krishnan,Bengaluru,Operations,Operations Manager,Hybrid,2020-11-15,,2,80000,34,5,No
+EMP-1895,Rahul Reddy,Hyderabad,HR & Admin,HR Manager,Hybrid,2019-12-13,,3,84500,5,3,No
+EMP-1900,Riya Kapoor,Chennai,Engineering,Senior Software Engineer,Hybrid,2021-01-03,2025-11-27,3,69000,32,3,Yes
+EMP-1916,Akash Kapoor,Hyderabad,Operations,Operations Manager,Remote,2021-09-02,,2,53500,27,3,No
+EMP-1716,Venkatesh Rao,Gurugram,Engineering,Software Engineer,Onsite,2024-05-26,,1,161000,29,1,No
+EMP-1275,Pooja Sharma,Gurugram,HR & Admin,Talent Acquisition Specialist,Hybrid,2020-04-18,,0,69000,24,3,No
+EMP-1838,Swathi Iyer,Bengaluru,Customer Support,Support Specialist,Onsite,2022-07-14,2026-03-21,2,45500,28,2,Yes
+EMP-1323,Shruti Chatterjee,Hyderabad,Customer Support,Senior Support Analyst,Onsite,2021-08-18,,1,57000,14,4,No
+EMP-1918,Harish Nair,Bengaluru,Data & Analytics,BI Developer,Remote,2024-08-06,,1,137000,5,4,No
+EMP-1380,Sneha Subramanian,Bengaluru,Customer Support,Senior Support Analyst,Onsite,2020-01-07,2025-11-26,3,37000,7,4,Yes
+EMP-1636,Vivek Krishnan,Chennai,HR & Admin,Talent Acquisition Specialist,Remote,2020-12-21,,2,81500,1,5,No
+EMP-1989,Nikhil Banerjee,Bengaluru,Engineering,QA Engineer,Remote,2022-05-14,,1,96500,,4,No
+EMP-2187,Swathi Rao,Hyderabad,Customer Support,Team Lead,Hybrid,2024-09-05,,1,49000,1,3,No
+EMP-1025,Meera Joshi,Chennai,Data & Analytics,Analytics Manager,Remote,2020-09-21,2026-04-21,3,84000,3,3,Yes
+EMP-1650,Riya Agarwal,Bengaluru,Sales,Account Executive,Remote,2024-05-02,,3,64000,5,5,No
+EMP-1173,Rajesh Raman,Bengaluru,Data & Analytics,Analytics Manager,Hybrid,2024-11-27,,3,112500,7,2,No
+EMP-1979,Sneha Kulkarni,Hyderabad,Sales,Account Executive,Hybrid,2024-07-09,,2,119000,0,1,No
+EMP-2092,Divya Banerjee,Bengaluru,Data & Analytics,Senior Data Analyst,Hybrid,2022-09-21,,3,84500,3,3,No
+EMP-1908,Siddharth Rao, hyderabad ,HR & Admin,Talent Acquisition Specialist,Hybrid,2022-12-11,,3,67000,0,3,No
+EMP-1056,Vivek Nair,Bengaluru,Customer Support,Team Lead,Hybrid,2021-06-20,,0,65500,18,3,No
+EMP-1399,Sanjay Mohan,Pune,Data & Analytics,BI Developer,Hybrid,2023-12-26,,0,96000,8,3,No
+EMP-1699,Rohan Joshi,Hyderabad,Sales,Sales Manager,Hybrid,2022-06-03,,2,64500,6,3,No
+EMP-1456,Varun Rao,Chennai,Operations,Process Associate,Hybrid,2019-01-10,,3,76000,36,3,No
+EMP-1955,Akash Singh,Chennai,Engineering,QA Engineer,Onsite,2019-06-24,,2,113000,8,5,No
+EMP-1303,Sanjay Kapoor,Chennai,Operations,Operations Executive,Remote,2019-11-02,,3,53500,19,3,No
+EMP-1551,Kavitha Banerjee,Bengaluru,Data & Analytics,Senior Data Analyst,Hybrid,2022-11-10,,0,71500,8,3,No
+EMP-1337,Deepak Patel,Hyderabad,Engineering,Senior Software Engineer, hybrid,2023-03-19,,2,139500,18,4,No
+EMP-2068,Deepak Verma,Pune,Operations,Shift Lead,Onsite,2021-02-15,,3,50000,36,3,No
+EMP-1020,Suresh Kumar,Gurugram,Sales,Account Executive,Hybrid,2019-09-08,,0,58000,1,3,No
+EMP-1704,Karthik Joshi,Chennai,Data & Analytics,Analytics Manager,Hybrid,2024-09-03,,1,127000,1,3,No
+EMP-1616,Divya Iyer,Bengaluru,HR & Admin,HR Manager,Hybrid,2022-02-01,,3,86000,18,3,No
+EMP-1098,Gokul Subramanian,Bengaluru,Operations,Shift Lead,Onsite,2025-07-06,2026-06-06,3,62000,,4,Yes
+EMP-1398,Sneha Kannan,Hyderabad,Sales,Account Executive,Hybrid,2020-01-16,2026-01-16,1,91500,30,3,Yes
+EMP-1520,Akash Hegde,Bengaluru,Customer Support,Escalation Manager,Remote,2021-10-08,2026-09-27,3,63000,36,4,Yes
+EMP-2098,Divya Reddy,Bengaluru,Engineering,Tech Lead,Remote,2022-02-27,,2,104000,30,3,No
+EMP-1474,Pranav Verma,Gurugram,Data & Analytics,Senior Data Analyst,Hybrid,2024-03-15,,3,112500,5,4,No
+EMP-1917,Suresh Prasad,Gurugram,Operations,Process Associate, hybrid,2022-10-14,,1,77000,28,1,No
+EMP-1086,Divya Raman,Hyderabad,Engineering,QA Engineer,Hybrid,2021-07-27,,1,143500,0,2,No
+EMP-1103,Vidya Hegde,Chennai, CUSTOMER SUPPORT ,Team Lead,Hybrid,2023-04-30,,1,59500,23,3,No
+EMP-1240,Pranav Singh,Chennai,Data & Analytics,Data Analyst,Remote,2019-04-10,,1,108000,5,3,No
+EMP-1911,Vivek Banerjee,Bengaluru,Operations,Operations Executive,Onsite,2024-10-10,2026-05-06,3,42500,3,4,Yes
+EMP-1105,Vivek Sharma,Bengaluru,Engineering,Tech Lead,Remote,2023-02-27,,1,163000,0,4,No
+EMP-1615,Vivek Hegde,Chennai,Engineering,QA Engineer,Remote,2022-12-08,,4,84000,3,3,No
+EMP-1683,Ishita Kumar,Chennai,Operations,Operations Manager,Hybrid,2019-05-07,,0,45000,37,3,No
+EMP-1029,Shruti Kumar,Bengaluru,Customer Support,Senior Support Analyst,Hybrid,2021-10-01,,1,43500,37,3,No
+EMP-1749,Aarav Patel,Bengaluru,Data & Analytics,Senior Data Analyst,Remote,2021-01-09,,4,115500,0,3,No
+EMP-1317,Nikhil Subramanian,Hyderabad,Customer Support,Escalation Manager,Onsite,2021-12-05,2025-11-18,3,70500,8,2,Yes
+EMP-1717,Meera Kulkarni,Hyderabad,Customer Support,Escalation Manager,Remote,2024-11-25,,1,49000,4,4,No
+EMP-1645,Rohan Sharma, chennai ,Operations,Operations Executive,Hybrid,2025-01-23,,0,52500,,4,No
+EMP-1506,Suresh Deshmukh,Pune,Sales,Account Executive,Remote,2025-07-13,,1,111500,1,3,No
+EMP-1044,Rohan Kumar,Chennai,HR & Admin,HRBP,Hybrid,2022-01-08,2026-09-29,2,92500,24,3,Yes
+EMP-2074,Aditi Banerjee,Pune,Operations,Process Associate,Hybrid,2019-06-07,,0,40500,35,4,No
+EMP-1333,Aarav Pillai,Hyderabad,Customer Support,Senior Support Analyst,Onsite,2019-01-19,,2,56000,22,3,No
+EMP-1785,Siddharth Raman,Hyderabad,Sales,Business Development Lead,Hybrid,2019-02-07,,1,93500,2,4,No
+EMP-1924,Riya Subramanian, gurugram ,Engineering,Tech Lead,Hybrid,2024-01-14,,4,103000,11,2,No
+EMP-1342,Bhavna Kapoor,Bengaluru,Sales,Account Executive,Onsite,2020-08-03,,1,67500,19,4,No
+EMP-1965,Meera Krishnan,Bengaluru,Operations,Operations Executive,Onsite,2021-02-12,,0,71500,13,3,No
+EMP-1035,Rohan Krishnan,Chennai,Operations,Operations Manager,Onsite,2019-12-01,,1,65500,,4,No
+EMP-1609,Vikram Kulkarni,Pune,Engineering,Software Engineer,Remote,2023-09-04,,0,151500,12,3,No
+EMP-2064,Meera Nair,Bengaluru,Customer Support,Senior Support Analyst,Onsite,2025-12-05,,2,64000,3,3,No
+EMP-2051,Nikhil Reddy,Hyderabad,Sales,Sales Manager,Hybrid,2019-03-19,,2,110000,11,4,No
+EMP-1747,Pooja Banerjee,Gurugram,Engineering,Tech Lead,Onsite,2019-08-18,,4,133000,4,3,No
+EMP-2090,Aditi Kapoor,Chennai,Data & Analytics,Data Analyst,Hybrid,2019-04-21,,1,123500,0,4,No
+EMP-1579,Manoj Subramanian,Pune,Engineering,Senior Software Engineer,Hybrid,2025-12-07,2026-01-12,4,73500,7,5,Yes
+EMP-1211,Akash Subramanian,Hyderabad,Customer Support,Team Lead,Onsite,2019-10-29,,1,63500,11,4,No
+EMP-1164,Deepak Raja,Chennai,Customer Support,Escalation Manager,Hybrid,2024-12-29,,0,55000,30,3,No
+EMP-1407,Pranav Krishnan,Bengaluru,Operations,Process Associate,Onsite,2021-02-02,,2,83000,,3,No
+EMP-1373,Priya Mehta,Bengaluru,Operations,Process Associate,Onsite,2022-01-13,2026-04-26,1,39500,14,3,Yes
+EMP-1082,Siddharth Banerjee,Gurugram,Operations,Process Associate,Onsite,2022-01-21,,1,42000,24,2,No
+EMP-1361,Karthik Pillai,Hyderabad,Sales,Inside Sales Rep,Hybrid,2022-05-17,,2,104000,12,3,No
+EMP-1344,Rohan Nair,Bengaluru,Operations,Shift Lead,Onsite,2023-07-11,2026-08-28,2,45000,34,2,Yes
+EMP-1635,Kavitha Singh,Hyderabad, SALES ,Account Executive,Remote,2019-01-22,,2,90000,4,1,No
+EMP-1460,Aditi Pillai,Pune,Customer Support,Support Specialist,Onsite,2021-12-29,,2,59000,5,3,No
+EMP-2017,Ishita Agarwal,Hyderabad,Operations,Operations Manager,Onsite,2022-02-27,,2,75500,17,5,No
+EMP-1403,Karthik Sen,Bengaluru,Operations,Operations Manager,Hybrid,2024-10-22,,2,64000,4,3,No
+EMP-1052,Suresh Verma,Hyderabad,Sales,Inside Sales Rep,Hybrid,2019-11-23,,0,74500,2,3,No
+EMP-1722,Ananya Patel,Pune,Data & Analytics,Data Analyst,Onsite,2020-03-18,,2,74000,8,4,No
+EMP-1284,Aarav Kumar,Chennai,Operations,Operations Manager,Onsite,2021-12-20,2026-01-05,3,44000,,3,Yes
+EMP-2085,Venkatesh Agarwal,Gurugram,Data & Analytics,Data Analyst,Hybrid,2019-10-07,,4,120500,8,3,No
+EMP-2028,Vivek Menon,Hyderabad,Sales,Inside Sales Rep,Remote,2025-08-15,,0,92500,2,4,No
+EMP-1836,Harish Subramanian,Bengaluru,Customer Support,Senior Support Analyst,Hybrid,2023-08-18,,1,70000,4,3,No
+EMP-1457,Varun Narayanan,Bengaluru,Customer Support,Support Specialist,Remote,2025-08-24,2025-12-09,1,60000,16,3,Yes
+EMP-1055,Siddharth Sen,Pune,Sales,Sales Manager,Hybrid,2022-04-06,,1,87000,1,4,No
+EMP-1343,Bhavna Pillai,Chennai,Data & Analytics,Senior Data Analyst,Remote,2021-02-17,,2,109500,13,1,No
+EMP-1339,Priya Mehta,Gurugram,Customer Support,Team Lead,Onsite,2021-03-04,2026-03-27,3,53000,3,5,Yes
+EMP-1049,Swathi Patel,Pune,Customer Support,Support Specialist,Onsite,2025-05-26,,1,42000,2,3,No
+EMP-1554,Riya Joshi,Hyderabad,Operations,Operations Executive,Onsite,2020-03-07,,2,58000,19,3,No
+EMP-1142,Kavitha Kapoor,Bengaluru,Operations,Operations Manager,Hybrid,2023-09-12,,0,82000,11,2,No
+EMP-1937,Arjun Nair,Chennai,Customer Support,Support Specialist,Onsite,2021-03-06,,3,37000,,5,No
+EMP-2002,Vidya Kulkarni,Chennai,Operations,Operations Manager,Onsite,2023-06-09,,0,41000,2,5,No
+EMP-1306,Neha Verma,Bengaluru,Data & Analytics,BI Developer,Onsite,2023-06-04,,2,96500,6,3,No
+EMP-1871,Sanjay Mohan,Gurugram, ENGINEERING ,QA Engineer,Hybrid,2024-09-05,,3,162500,4,3,No
+EMP-BAD-3,Swathi Agarwal,Hyderabad,Operations,Shift Lead,Onsite,2025-08-27,2026-02-28,1,-5000,27,3,Yes
+EMP-1930,Aditi Raman,Bengaluru,Sales,Sales Manager,Hybrid,2022-12-20,,4,94000,5,3,No
+EMP-1817,Karthik Raman,Bengaluru,Operations,Process Associate,Onsite,2025-08-08,,1,74000,15,3,No
+EMP-2184,Neha Raman,Bengaluru, OPERATIONS ,Operations Executive,Onsite,2022-01-03,,4,69000,38,3,No
+EMP-1392,Suresh Narayanan,Chennai,Sales,Account Executive,Hybrid,2025-02-15,,2,115500,20,1,No
+EMP-1234,Venkatesh Kulkarni,Chennai,Customer Support,Escalation Manager,Hybrid,2020-02-14,2026-05-11,1,69500,26,2,Yes
+EMP-1820,Siddharth Patel,Pune,Engineering,QA Engineer,Onsite,2019-12-15,,3,97000,0,3,No
+EMP-1326,Rahul Hegde,Bengaluru,Data & Analytics,Senior Data Analyst,Hybrid,2025-08-24,,1,98500,1,3,No
+EMP-1182,Meera Singh,Pune,Engineering,QA Engineer,Remote,2019-02-27,,1,148000,6,3,No
+EMP-1311,Neha Iyer,Hyderabad,Operations,Operations Manager,Remote,2022-02-25,,2,59000,2,3,No
+EMP-1561,Sanjay Kannan,Chennai,Customer Support,Escalation Manager,Hybrid,2024-10-13,,2,53500,7,3,No
+EMP-1200,Akash Mehta,Pune,Data & Analytics,Analytics Manager,Hybrid,2023-03-21,2026-02-20,0,109500,14,4,Yes
+EMP-1516,Bhavna Verma,Chennai,Sales,Sales Manager,Hybrid,2025-02-15,,3,93500,16,4,No
+EMP-1555,Shruti Balaji,Pune,Customer Support,Escalation Manager,Hybrid,2021-01-17,,1,47500,31,3,No
+EMP-1954,Manoj Raja,Gurugram,Operations,Process Associate,Onsite,2021-07-24,2026-01-14,2,36500,8,3,Yes
+EMP-1307,Sanjay Rao,Pune,Customer Support,Senior Support Analyst,Onsite,2022-01-13,,0,46500,12,4,No
+EMP-1913,Karthik Balaji,Bengaluru,Sales,Account Executive,Hybrid,2024-04-13,,0,83000,8,4,No
+EMP-1258,Venkatesh Banerjee,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2020-06-27,,1,107000,3,4,No
+EMP-1777,Pranav Sharma,Chennai,Data & Analytics,BI Developer,Hybrid,2024-08-12,,3,104500,31,2,No
+EMP-1225,Swathi Singh,Chennai,Operations,Process Associate,Remote,2020-09-09,,2,42500,16,2,No
+EMP-1562,Varun Sharma,Chennai,Operations,Operations Manager, onsite,2023-05-22,,2,54000,8,3,No
+EMP-1603,Sanjay Kumar,Bengaluru,Engineering,QA Engineer, remote,2021-08-13,,0,74500,14,4,No
+EMP-1199,Deepak Chatterjee,Hyderabad,Data & Analytics,BI Developer,Onsite,2025-12-21,,1,61000,0,2,No
+EMP-1459,Vivek Banerjee,Chennai,Operations,Process Associate,Onsite,2021-10-06,,2,75500,5,2,No
+EMP-1440,Swathi Patel,Hyderabad,Sales,Sales Manager,Hybrid,2023-04-04,,0,48500,27,4,No
+EMP-2146,Pranav Subramanian,Chennai,Customer Support,Support Specialist,Onsite,2020-03-04,2026-03-15,2,48000,6,3,Yes
+EMP-1040,Meera Raja,Bengaluru,Operations,Shift Lead,Onsite,2023-02-16,,0,59000,23,3,No
+EMP-1446,Rahul Iyer,Hyderabad,Operations,Operations Executive,Hybrid,2024-05-27,,4,80000,3,3,No
+EMP-1559,Shruti Singh,Bengaluru,HR & Admin,HR Coordinator,Hybrid,2019-07-11,,3,48500,10,3,No
+EMP-2101,Suresh Verma,Pune,Customer Support,Team Lead, onsite,2019-08-16,,0,48500,2,3,No
+EMP-1883,Deepak Patel,Gurugram,Operations,Operations Manager,Onsite,2025-07-21,,0,58000,38,3,No
+EMP-1416,Pooja Singh,Bengaluru,Customer Support,Escalation Manager,Hybrid,2025-05-31,,0,67000,12,5,No
+EMP-1062,Deepak Narayanan,Gurugram,Operations,Shift Lead,Onsite,2024-04-08,2026-05-01,1,40000,,2,Yes
+EMP-1543,Rajesh Hegde, bengaluru ,Engineering,Senior Software Engineer,Hybrid,2025-07-04,,4,73000,2,4,No
+EMP-1431,Manoj Prasad,Bengaluru,Customer Support,Support Specialist,Hybrid,2022-10-24,,1,62000,25,5,No
+EMP-1156,Lakshmi Narayanan, bengaluru ,Operations,Operations Manager,Onsite,2025-10-28,,2,35500,8,3,No
+EMP-2124,Ishita Raja,Pune,Operations,Process Associate,Onsite,2019-03-20,,2,80500,33,4,No
+EMP-2165,Deepak Reddy,Gurugram,Operations,Process Associate,Hybrid,2021-12-22,,3,71000,18,2,No
+EMP-1346,Varun Kannan,Hyderabad,Operations,Shift Lead, hybrid,2023-01-06,,1,63000,5,3,No
+EMP-1248,Rajesh Pillai,Chennai,Sales,Sales Manager,Hybrid,2023-06-27,,0,62000,3,4,No
+EMP-1844,Shruti Subramanian,Bengaluru,Engineering,QA Engineer,Hybrid,2020-03-26,,1,102000,4,3,No
+EMP-2021,Shruti Prasad,Gurugram,Customer Support,Team Lead,Hybrid,2023-05-11,,1,64000,7,3,No
+EMP-1783,Varun Mehta,Bengaluru,Sales,Inside Sales Rep,Hybrid,2020-08-01,2026-09-10,0,112500,8,2,Yes
+EMP-2105,Divya Raja,Gurugram,Engineering,Tech Lead,Hybrid,2019-11-04,,2,84500,6,3,No
+EMP-1263,Shruti Nair,Gurugram,HR & Admin,HR Coordinator,Remote,2020-12-12,,2,70000,8,3,No
+EMP-1449,Rajesh Iyer,Pune,Data & Analytics,BI Developer,Hybrid,2025-03-27,,4,68000,18,3,No
+EMP-1369,Pooja Hegde,Hyderabad,Customer Support,Team Lead,Remote,2019-02-10,,0,69000,18,4,No
+EMP-1461,Arjun Banerjee,Bengaluru,Customer Support,Support Specialist,Onsite,2025-07-31,,1,62000,36,4,No
+EMP-1810,Deepak Kannan,Chennai,Data & Analytics,BI Developer,Hybrid,2022-05-02,,1,92000,6,4,No
+EMP-1803,Pooja Singh,Bengaluru,Sales,Business Development Lead,Hybrid,2023-08-21,,0,79000,3,4,No
+EMP-2075,Riya Nair,Pune,Data & Analytics,Data Analyst,Onsite,2022-01-14,2026-02-05,2,96000,32,4,Yes
+EMP-2172,Riya Mohan,Chennai,Engineering,Software Engineer,Remote,2025-04-26,,1,125500,1,3,No
+EMP-1219,Akash Iyer,Hyderabad,Sales,Inside Sales Rep,Onsite,2024-10-31,,1,110000,2,3,No
+EMP-2177,Suresh Patel,Gurugram,Operations,Process Associate,Onsite,2019-11-26,,1,71000,19,4,No
+EMP-2054,Harish Singh,Bengaluru,Operations,Shift Lead,Onsite,2022-12-06,,0,63500,14,4,No
+EMP-1141,Swathi Pillai,Bengaluru,Data & Analytics,BI Developer,Remote,2019-04-27,2026-02-26,0,65500,17,3,Yes
+EMP-1376,Vidya Raman,Pune,Operations,Operations Executive,Onsite,2020-03-18,2025-11-25,2,79500,13,3,Yes
+EMP-1455,Rajesh Prasad,Hyderabad,Sales,Sales Manager,Hybrid,2024-05-07,2026-10-08,1,104500,1,5,Yes
+EMP-1826,Divya Kapoor,Bengaluru,HR & Admin,HR Manager,Onsite,2022-01-20,,3,89000,3,4,No
+EMP-1721,Sanjay Raja,Bengaluru,Operations,Operations Manager,Onsite,2025-01-19,,3,38500,11,3,No
+EMP-1315,Kavitha Kapoor,Hyderabad,Engineering,Senior Software Engineer,Remote,2022-10-23,,1,111500,18,2,No
+EMP-2144,Manoj Hegde,Bengaluru,Engineering,Tech Lead,Onsite,2022-09-20,,1,149500,,3,No
+EMP-1681,Priya Kumar,Chennai,Engineering,Tech Lead,Hybrid,2021-08-11,,1,90500,32,5,No
+EMP-1529,Lakshmi Kapoor, pune ,Customer Support,Senior Support Analyst,Onsite,2019-09-08,,3,36500,32,4,No
+EMP-1073,Rohan Mohan,Bengaluru,Sales,Sales Manager,Onsite,2024-04-08,,4,99500,1,1,No
+EMP-1145,Rajesh Patel,Chennai,Engineering,Senior Software Engineer,Onsite,2023-07-03,,2,65500,14,3,No
+EMP-2052,Divya Rao,Chennai,Data & Analytics,BI Developer,Remote,2025-06-24,,0,64500,6,1,No
+EMP-1170,Rohan Verma,Bengaluru,Engineering,Tech Lead,Hybrid,2021-04-23,2025-12-10,2,136500,31,4,Yes
+EMP-1637,Ishita Subramanian,Bengaluru,Sales,Business Development Lead, hybrid,2019-08-26,2026-04-29,3,53000,16,5,Yes
+EMP-1415,Venkatesh Reddy,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2023-10-30,,2,80000,2,1,No
+EMP-1972,Karthik Deshmukh,Pune,Operations,Process Associate, onsite,2024-08-31,2025-12-29,1,62500,20,3,Yes
+,Nikhil Chatterjee,Chennai,Engineering,Tech Lead,Onsite,2023-03-08,,1,111500,10,3,No
+EMP-1181,Akash Pillai,Hyderabad,Engineering,Tech Lead,Hybrid,2023-03-24,,3,104000,0,3,No
+EMP-2053,Divya Deshmukh,Hyderabad,Customer Support,Team Lead, hybrid,2024-05-19,2025-12-21,1,41500,30,3,Yes
+EMP-1237,Manoj Rao,Chennai,Engineering,Software Engineer,Remote,2025-11-25,,1,127000,12,4,No
+   ,Kavitha Banerjee,Bengaluru,Data & Analytics,Senior Data Analyst,Hybrid,2022-11-10,,0,71500,8,3,No
+EMP-1572,Meera Singh,Chennai,Customer Support,Support Specialist,Onsite,2023-11-05,,0,36000,25,3,No
+EMP-1527,Gokul Raman,Hyderabad,Engineering,Senior Software Engineer,Remote,2024-05-27,,4,114000,8,5,No
+EMP-1270,Manoj Agarwal,Hyderabad,Data & Analytics,Senior Data Analyst,Remote,2019-11-15,,4,134000,3,2,No
+EMP-1706,Deepak Rao,Chennai,Customer Support,Support Specialist,Hybrid,2025-05-28,,1,34500,13,5,No
+EMP-1845,Sneha Patel,Gurugram,Sales,Sales Manager,Hybrid,2020-04-14,,1,106500,7,3,No
+EMP-1437,Sneha Banerjee,Hyderabad,Operations,Operations Manager,Onsite,2021-05-04,,1,64000,33,4,No
+EMP-1847,Pranav Agarwal,Hyderabad,Engineering,Senior Software Engineer,Hybrid,2023-11-06,,1,117000,12,3,No
+EMP-1960,Meera Verma,Hyderabad,Sales,Account Executive,Onsite,2025-11-16,2025-12-16,2,81000,0,2,Yes
+EMP-2161,Gokul Agarwal,Chennai,Operations,Operations Executive,Onsite,2022-02-26,2026-08-05,2,78500,8,4,Yes
+EMP-1465,Neha Subramanian,Bengaluru,Data & Analytics,BI Developer,Remote,2020-03-18,,2,79500,30,3,No
+EMP-1601,Harish Subramanian,Bengaluru, DATA & ANALYTICS ,Data Analyst,Onsite,2022-07-15,,2,121000,14,3,No
+EMP-1671,Swathi Singh,Chennai,HR & Admin,HR Manager,Hybrid,2024-01-10,,1,45500,2,4,No
+EMP-1640,Ananya Sen,Gurugram,Sales,Inside Sales Rep,Hybrid,2025-12-26,2026-05-29,3,90500,21,3,Yes
+EMP-2033,Arjun Prasad,Pune,Customer Support,Escalation Manager,Remote,2019-03-05,,1,69500,3,5,No
+EMP-1178,Gokul Kapoor,Bengaluru,Operations,Shift Lead,Onsite,2020-07-05,,2,54000,30,4,No
+EMP-1526,Nikhil Nair,Bengaluru,Engineering,Software Engineer,Hybrid,2021-06-06,,2,148000,10,2,No
+EMP-1991,Pooja Sen,Chennai,Engineering,QA Engineer,Hybrid,2020-06-05,,4,114000,16,3,No
+EMP-1010,Vidya Agarwal,Chennai,Customer Support,Support Specialist,Hybrid,2021-12-06,,4,52000,27,2,No
+EMP-2199,Karthik Nair,Pune,Data & Analytics,Senior Data Analyst,Hybrid,2021-09-21,,1,61000,5,4,No
+EMP-1643,Siddharth Balaji,Chennai,Engineering,Tech Lead,Hybrid,2023-12-05,,0,88000,27,3,No
+EMP-1882,Siddharth Rao,Bengaluru,Sales,Sales Manager,Onsite,2019-08-29,,2,94500,16,4,No
+EMP-1146,Meera Mohan,Bengaluru,Customer Support,Support Specialist,Hybrid,2021-04-19,,2,72500,0,3,No
+EMP-1947,Harish Kulkarni,Bengaluru,Customer Support,Team Lead,Onsite,2019-12-27,,0,45000,19,5,No
+EMP-1068,Pooja Pillai,Pune,Engineering,QA Engineer,Hybrid,2023-11-14,,2,146500,4,1,No
+EMP-2078,Divya Reddy,Bengaluru,Data & Analytics,BI Developer,Remote,2021-11-09,2025-12-26,3,141500,15,3,Yes
+EMP-1409,Vidya Mohan,Gurugram,HR & Admin,HRBP,Onsite,2023-05-22,2026-09-06,1,44500,12,5,Yes
+EMP-2121,Harish Banerjee,Pune,Customer Support,Support Specialist,Onsite,2024-05-22,,1,37500,27,2,No
+EMP-2155,Gokul Kulkarni,Bengaluru,Data & Analytics,Data Analyst,Hybrid,2024-01-22,,2,60000,14,5,No
+EMP-1903,Vikram Narayanan,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2024-06-25,2026-05-31,1,123500,3,2,Yes
+EMP-1466,Vikram Kulkarni,Hyderabad,Data & Analytics,Analytics Manager,Remote,2025-04-30,,0,123500,3,4,No
+EMP-1743,Deepak Nair,Bengaluru,Customer Support,Escalation Manager,Onsite,2023-09-20,,1,41000,29,3,No
+EMP-1090,Vidya Narayanan,Chennai,Data & Analytics,Senior Data Analyst,Onsite,2024-05-06,,2,86000,1,4,No
+EMP-1166,Swathi Kulkarni,Chennai,Customer Support,Senior Support Analyst,Onsite,2020-06-10,,0,71000,3,3,No
+EMP-1876,Shruti Chatterjee,Bengaluru,Customer Support,Team Lead,Hybrid,2023-03-08,,1,68500,4,2,No
+EMP-1381,Suresh Prasad,Chennai,Operations,Process Associate,Remote,2021-08-09,,0,47000,15,2,No
+EMP-1646,Rahul Banerjee,Hyderabad,Operations,Operations Manager,Onsite,2021-01-07,,0,45500,4,4,No
+EMP-1177,Karthik Deshmukh,Hyderabad,HR & Admin,HR Coordinator,Onsite,2022-06-28,,2,47500,3,3,No
+EMP-1224,Vikram Joshi,Hyderabad,Customer Support,Support Specialist,Hybrid,2019-08-04,,1,68000,12,3,No
+EMP-1950,Aditi Patel,Chennai,Customer Support,Escalation Manager,Onsite,2022-06-19,,1,56500,33,3,No
+EMP-1365,Varun Reddy,Chennai,Engineering,Tech Lead,Hybrid,2025-02-09,,2,144000,0,4,No
+EMP-1003,Rajesh Subramanian,Bengaluru,Operations,Operations Manager,Onsite,2021-10-03,2026-10-02,2,40000,14,1,Yes
+EMP-1762,Gokul Menon,Chennai,Data & Analytics,Data Analyst,Hybrid,2025-11-30,,0,133000,5,4,No
+EMP-1238,Nikhil Hegde,Pune,HR & Admin,HR Manager,Hybrid,2020-10-07,,0,60000,19,5,No
+EMP-1188,Ishita Banerjee,Gurugram,Customer Support,Team Lead,Onsite,2021-10-30,2025-11-16,2,74500,32,4,Yes
+EMP-2093,Shruti Singh,Chennai,Data & Analytics,BI Developer, onsite,2020-04-30,,1,74500,1,2,No
+EMP-1720,Shruti Verma,Pune,Engineering,QA Engineer,Remote,2019-06-29,,2,132000,5,3,No
+EMP-1121,Harish Kumar,Pune,Customer Support,Team Lead,Remote,2024-07-14,,1,56500,18,3,No
+EMP-1135,Pooja Kumar,Bengaluru,Operations,Operations Executive,Onsite,2023-05-25,,0,70000,33,5,No
+EMP-1987,Harish Pillai,Hyderabad,Customer Support,Escalation Manager,Onsite,2022-03-04,,3,52000,30,3,No
+EMP-1013,Arjun Krishnan,Hyderabad,Operations,Operations Executive, onsite,2025-03-16,,0,68500,3,5,No
+EMP-1765,Harish Patel,Chennai,HR & Admin,HRBP,Hybrid,2025-07-22,,3,75500,8,3,No
+EMP-1798,Arjun Singh,Pune,Engineering,QA Engineer,Hybrid,2021-01-10,,1,71000,19,4,No
+,Shruti Sen,Pune,Data & Analytics,BI Developer,Remote,2022-04-15,,4,100000,3,5,No
+EMP-1860,Lakshmi Pillai,Bengaluru,Operations,Operations Manager,Hybrid,2021-10-17,,1,36500,7,3,No
+EMP-1280,Harish Raman,Hyderabad,Sales,Business Development Lead,Remote,2025-11-16,,2,117500,8,3,No
+EMP-2180,Manoj Deshmukh,Chennai,Customer Support,Senior Support Analyst,Hybrid,2020-03-21,2026-08-19,4,70500,38,3,Yes
+EMP-1493,Varun Narayanan,Hyderabad,Engineering,QA Engineer,Hybrid,2025-02-10,,1,127500,12,3,No
+EMP-1927,Bhavna Chatterjee,Bengaluru,Operations,Process Associate,Onsite,2024-04-28,,4,42500,29,2,No
+EMP-1537,Varun Balaji,Bengaluru,Operations,Shift Lead, hybrid,2021-04-16,,1,70000,15,5,No
+EMP-1330,Harish Balaji,Pune,Customer Support,Escalation Manager,Hybrid,2019-01-24,2026-06-02,2,54000,31,4,Yes
+EMP-1375,Lakshmi Narayanan,Bengaluru,Operations,Operations Executive,Onsite,2024-12-17,,0,64000,35,3,No
+EMP-2059,Vidya Sharma,Chennai,Operations,Operations Manager, onsite,2025-12-26,,2,66500,23,3,No
+   ,Arjun Sen,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2024-02-18,,3,107500,13,3,No
+EMP-1995,Pooja Hegde,Chennai,Operations,Process Associate,Remote,2022-01-13,,3,50500,10,3,No
+EMP-1183,Rajesh Mehta,Bengaluru,Engineering,QA Engineer,Remote,2022-09-20,,0,103000,18,4,No
+EMP-1120,Aditi Prasad,Pune,Engineering,QA Engineer,Hybrid,2021-06-12,,1,104000,7,3,No
+EMP-1011,Arjun Pillai,Bengaluru,Operations,Operations Manager,Remote,2024-02-24,,4,52500,33,4,No
+EMP-1574,Manoj Verma,Hyderabad,Customer Support,Team Lead,Hybrid,2023-07-20,,0,59000,35,3,No
+EMP-1672,Vidya Singh,Hyderabad,Customer Support,Support Specialist,Hybrid,2021-03-12,,1,54500,12,3,No
+EMP-2162,Siddharth Kannan,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2022-08-15,2025-11-27,0,133500,12,2,Yes
+EMP-2031,Karthik Hegde,Chennai, OPERATIONS ,Process Associate,Onsite,2019-02-08,2025-11-28,3,59500,10,3,Yes
+EMP-1364,Sneha Raman,Hyderabad,Operations,Shift Lead,Remote,2025-12-17,,1,76000,10,4,No
+EMP-1963,Nikhil Joshi,Chennai,Engineering,Software Engineer,Onsite,2024-04-13,,0,93000,1,3,No
+EMP-1571,Ananya Deshmukh,Hyderabad,Engineering,Software Engineer,Hybrid,2022-07-18,,1,123000,0,3,No
+EMP-1279,Bhavna Raman,Pune,Customer Support,Escalation Manager, onsite,2025-08-27,,1,63000,2,4,No
+EMP-1433,Riya Mohan,Bengaluru,Operations,Process Associate,Hybrid,2025-09-20,,0,61500,34,5,No
+EMP-1352,Rajesh Balaji,Hyderabad,Operations,Process Associate,Onsite,2023-02-10,2026-02-18,1,60500,0,3,Yes
+EMP-BAD-5,Akash Balaji,Chennai,Sales,Inside Sales Rep,Onsite,2024-01-07,2026-06-22,2,-5000,1,2,Yes
+EMP-1109,Siddharth Verma,Bengaluru,Sales,Inside Sales Rep,Hybrid,2022-05-26,,1,58500,1,4,No
+EMP-1564,Kavitha Narayanan,Hyderabad,Engineering,Senior Software Engineer,Hybrid,2024-05-26,,2,123500,16,5,No
+EMP-1840,Vikram Banerjee,Pune,HR & Admin,HR Coordinator,Hybrid,2020-02-20,,2,56500,14,4,No
+EMP-1701,Arjun Verma,Gurugram,Operations,Operations Executive, onsite,2020-10-01,,3,60000,17,4,No
+EMP-1450,Aarav Menon,Chennai,Operations,Operations Manager,Onsite,2019-05-23,,4,47000,25,3,No
+EMP-1818,Gokul Menon,Chennai,Engineering,QA Engineer,Hybrid,2020-11-11,,0,155500,3,3,No
+EMP-1130,Ananya Krishnan,Chennai,Operations,Process Associate,Remote,2020-08-20,,2,69500,15,3,No
+EMP-1102,Gokul Nair,Bengaluru,HR & Admin,HRBP,Remote,2020-09-27,,3,69500,0,3,No
+EMP-1037,Manoj Joshi,Bengaluru,Operations,Process Associate,Onsite,2021-06-19,,2,82500,24,5,No
+EMP-1001,Divya Sharma,Pune,Customer Support,Senior Support Analyst,Onsite,2019-11-20,,1,37500,6,4,No
+EMP-2018,Priya Narayanan,Chennai,Data & Analytics,Senior Data Analyst,Remote,2023-04-02,,4,84500,0,3,No
+EMP-1752,Neha Joshi,Chennai,HR & Admin,Talent Acquisition Specialist,Hybrid,2025-07-01,,1,79500,3,3,No
+EMP-2140,Pranav Banerjee,Chennai,Engineering,QA Engineer,Hybrid,2022-11-12,,3,136000,26,3,No
+EMP-1290,Arjun Narayanan,Chennai,Sales,Inside Sales Rep,Hybrid,2022-01-16,,3,90000,7,3,No
+EMP-1006,Lakshmi Sen,Bengaluru,Sales,Sales Manager,Hybrid,2024-06-08,,1,77500,18,3,No
+EMP-1259,Meera Verma,Bengaluru,HR & Admin,HR Manager,Hybrid,2020-05-30,2026-11-11,0,69500,11,3,Yes
+EMP-2036,Vivek Menon,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2021-03-08,,0,75500,5,4,No
+EMP-1892,Meera Kulkarni,Bengaluru,Operations,Operations Manager,Onsite,2024-10-28,,1,74500,37,3,No
+EMP-1654,Gokul Raman, bengaluru ,HR & Admin,HR Manager,Hybrid,2023-06-26,,1,43500,,1,No
+EMP-1093,Akash Mohan,Gurugram,Engineering,Senior Software Engineer,Hybrid,2020-08-31,,3,130500,,3,No
+EMP-1996,Rohan Singh,Hyderabad,Operations,Shift Lead,Hybrid,2019-02-11,,1,52500,7,3,No
+EMP-1764,Priya Patel,Bengaluru,Operations,Process Associate,Onsite,2021-01-29,,3,49500,,5,No
+EMP-1602,Rohan Nair, gurugram ,Customer Support,Senior Support Analyst,Onsite,2023-06-24,2026-02-04,3,35500,17,5,Yes
+EMP-1710,Pooja Deshmukh,Chennai,Engineering,Senior Software Engineer,Remote,2024-11-17,,4,105000,17,3,No
+EMP-2196,Akash Mehta,Hyderabad,Sales,Account Executive,Remote,2020-10-27,,1,117000,2,3,No
+EMP-1216,Gokul Kumar,Hyderabad,Sales,Business Development Lead,Hybrid,2024-05-05,,1,63500,25,5,No
+EMP-1271,Venkatesh Patel,Bengaluru,Customer Support,Team Lead,Hybrid,2019-06-14,,0,48500,34,2,No
+EMP-2164,Riya Balaji,Hyderabad,HR & Admin,HR Coordinator,Remote,2025-12-26,,3,93000,3,3,No
+EMP-1751,Manoj Sen,Chennai,HR & Admin,HR Coordinator,Hybrid,2025-07-27,,2,52000,8,3,No
+EMP-1542,Aditi Mohan,Bengaluru,Engineering,Software Engineer,Hybrid,2019-04-30,,4,158500,19,2,No
+EMP-1110,Sneha Balaji,Bengaluru,Data & Analytics,Senior Data Analyst, onsite,2021-02-14,,1,91000,11,4,No
+EMP-1921,Shruti Nair,Chennai,Customer Support,Senior Support Analyst,Onsite,2020-03-13,2026-08-24,1,60500,20,4,Yes
+EMP-2174,Karthik Balaji,Bengaluru,Engineering,QA Engineer,Hybrid,2021-03-08,,2,143000,4,3,No
+EMP-2050,Kavitha Prasad,Hyderabad,Operations,Shift Lead,Onsite,2021-08-23,,4,47500,8,3,No
+EMP-1685,Ananya Joshi,Chennai, OPERATIONS ,Operations Executive,Onsite,2019-07-03,2026-05-10,1,42000,1,5,Yes
+EMP-1978,Arjun Singh,Bengaluru,Customer Support,Escalation Manager,Onsite,2024-01-08,,3,56500,0,3,No
+EMP-1289,Akash Nair,Gurugram,Customer Support,Team Lead,Onsite,2023-01-18,,1,70000,19,3,No
+EMP-1334,Varun Pillai,Hyderabad,Engineering,QA Engineer,Hybrid,2022-05-22,,3,79500,1,2,No
+EMP-1363,Venkatesh Subramanian,Gurugram,Customer Support,Escalation Manager, hybrid,2024-02-01,,2,54000,2,3,No
+EMP-1546,Deepak Mohan,Pune,Sales,Sales Manager,Hybrid,2025-12-16,,1,74000,3,4,No
+EMP-1893,Suresh Subramanian,Bengaluru,Engineering,Software Engineer, remote,2024-01-30,,3,68000,17,3,No
+EMP-2179,Divya Deshmukh,Bengaluru,Engineering,QA Engineer,Hybrid,2021-09-19,,0,78000,2,3,No
+EMP-1825,Aditi Pillai,Gurugram,Engineering,Tech Lead,Remote,2021-10-16,,0,135500,29,3,No
+EMP-1189,Deepak Sharma,Chennai,Operations,Shift Lead,Onsite,2021-01-04,2026-09-27,1,35500,23,2,Yes
+EMP-1575,Ishita Joshi,Gurugram,Engineering,Tech Lead,Onsite,2024-07-05,,1,108500,2,4,No
+EMP-1297,Deepak Hegde,Chennai,Engineering,Senior Software Engineer,Remote,2025-01-22,,2,102000,8,4,No
+EMP-2130,Ishita Joshi,Pune,Operations,Process Associate,Onsite,2022-12-28,,1,51500,18,2,No
+EMP-2110,Arjun Banerjee,Hyderabad,Operations,Operations Manager,Onsite,2020-02-24,,1,48000,7,4,No
+EMP-1198,Divya Pillai,Pune,Customer Support,Escalation Manager,Onsite,2025-04-14,2026-07-04,0,49000,17,4,Yes
+EMP-1153,Swathi Pillai,Pune,Sales,Business Development Lead,Hybrid,2025-06-27,,4,118500,3,3,No
+EMP-1379,Pooja Kapoor,Chennai,Operations,Process Associate,Onsite,2025-06-07,2026-01-12,0,43500,0,3,Yes
+EMP-1789,Deepak Menon,Chennai,Operations,Operations Executive,Hybrid,2020-02-22,,2,73500,38,3,No
+EMP-1608,Deepak Kulkarni,Hyderabad,Customer Support,Escalation Manager,Onsite,2024-08-06,,3,38500,5,1,No
+EMP-2000,Pooja Chatterjee,Chennai,Engineering,Tech Lead,Remote,2019-09-07,,1,97000,17,3,No
+EMP-1283,Meera Patel,Bengaluru,Operations,Shift Lead,Onsite,2020-12-12,,1,56500,19,3,No
+EMP-1185,Bhavna Kannan,Bengaluru,Customer Support,Team Lead,Onsite,2020-07-11,,2,53500,34,4,No
+EMP-1596,Suresh Iyer,Pune,Sales,Sales Manager,Onsite,2023-04-20,,2,77000,32,2,No
+EMP-1936,Pooja Subramanian,Bengaluru,Engineering,Senior Software Engineer,Hybrid,2022-02-18,,4,161500,18,3,No
+EMP-1997,Karthik Agarwal,Chennai,Operations,Shift Lead,Onsite,2021-02-13,,3,73000,6,3,No
+EMP-1944,Manoj Agarwal,Pune,Customer Support,Escalation Manager,Onsite,2019-10-11,,3,54500,24,3,No
+EMP-1242,Vivek Iyer,Bengaluru,Engineering,QA Engineer,Onsite,2019-09-25,,1,165000,2,4,No
+EMP-1644,Karthik Deshmukh,Bengaluru,Engineering,Software Engineer,Hybrid,2021-03-21,2026-05-02,0,97000,16,4,Yes
+EMP-2046,Karthik Kapoor,Chennai,HR & Admin,HRBP,Hybrid,2022-07-05,,2,90000,,3,No
+EMP-1688,Kavitha Subramanian,Chennai,Operations,Shift Lead,Hybrid,2021-11-28,2026-03-10,0,42500,3,4,Yes
+EMP-1740,Kavitha Kumar,Bengaluru,Operations,Shift Lead,Hybrid,2025-11-20,,3,50000,6,4,No
+EMP-1945,Meera Deshmukh,Pune, ENGINEERING ,Tech Lead,Remote,2022-06-27,,1,132000,1,3,No
+EMP-1150,Ananya Mehta,Bengaluru, CUSTOMER SUPPORT ,Senior Support Analyst,Onsite,2023-02-21,2026-05-02,0,45500,34,4,Yes
+EMP-1286,Lakshmi Agarwal,Chennai,Customer Support,Escalation Manager,Onsite,2024-05-02,,1,56000,38,3,No
+EMP-1755,Venkatesh Kulkarni,Hyderabad,Customer Support,Senior Support Analyst, onsite,2019-06-20,,4,34000,22,5,No
+EMP-2171,Shruti Mehta,Chennai,Engineering,QA Engineer,Remote,2024-12-28,,0,129000,2,2,No
+EMP-1012,Pranav Kannan,Gurugram,Engineering,Tech Lead,Remote,2020-12-08,,2,81000,3,3,No
+EMP-2134,Rohan Banerjee,Hyderabad,Operations,Process Associate,Onsite,2022-10-12,,2,52000,10,4,No
+EMP-1162,Sanjay Pillai, bengaluru ,Engineering,Tech Lead,Hybrid,2022-01-04,,2,137500,16,2,No
+EMP-1620,Vivek Agarwal,Bengaluru,HR & Admin,HR Manager,Onsite,2024-06-21,,3,71500,30,4,No
+EMP-1031,Meera Rao,Bengaluru,HR & Admin,HRBP, hybrid,2023-04-04,,2,71000,26,4,No
+EMP-1779,Pranav Joshi,Bengaluru,Operations,Operations Manager,Onsite,2021-03-08,,1,41000,16,4,No
+EMP-1383,Shruti Reddy,Hyderabad,Engineering,Tech Lead, hybrid,2022-03-07,,2,92500,16,3,No
+EMP-2145,Ishita Agarwal, bengaluru ,Operations,Operations Executive,Onsite,2024-01-23,2026-11-08,0,81500,8,3,Yes
+EMP-2183,Sneha Chatterjee,Chennai,Operations,Operations Manager,Remote,2019-12-22,,3,68000,20,5,No
+EMP-2070,Aditi Singh,Bengaluru,Customer Support,Escalation Manager,Remote,2019-06-25,,2,39500,27,4,No
+EMP-1865,Karthik Balaji,Pune,Operations,Shift Lead,Hybrid,2023-09-18,2026-10-25,0,55000,28,1,Yes
+EMP-1735,Pooja Agarwal,Pune,Customer Support,Team Lead,Hybrid,2024-03-25,,2,51000,1,4,No
+EMP-1884,Siddharth Rao,Gurugram, OPERATIONS ,Shift Lead,Hybrid,2022-04-24,,3,41500,20,3,No
+EMP-1272,Ananya Pillai,Gurugram,Engineering,QA Engineer,Hybrid,2019-07-31,,2,137000,11,5,No
+EMP-1179,Varun Raja,Chennai,Customer Support,Escalation Manager,Onsite,2020-06-26,,0,59000,7,4,No
+EMP-1046,Swathi Mehta,Bengaluru,Customer Support,Team Lead,Onsite,2020-11-29,,0,50000,4,2,No
+EMP-1260,Bhavna Kulkarni,Hyderabad,Engineering,QA Engineer,Remote,2019-09-11,,3,92000,15,4,No
+EMP-1485,Harish Mehta,Pune,Engineering,Tech Lead,Hybrid,2024-05-02,,0,72000,3,3,No
+EMP-1048,Pooja Krishnan,Gurugram,Engineering,Tech Lead,Hybrid,2025-11-11,,0,140000,4,2,No
+EMP-1773,Shruti Nair,Hyderabad,Customer Support,Team Lead,Onsite,2021-01-16,,2,60000,14,3,No
+EMP-1931,Gokul Balaji,Hyderabad,Engineering,Tech Lead,Hybrid,2025-01-24,,0,124000,28,2,No
+EMP-2167,Ishita Subramanian,Hyderabad,Engineering,Software Engineer,Hybrid,2019-05-18,,1,68000,6,4,No
+EMP-1159,Ishita Verma,Bengaluru,Customer Support,Team Lead,Onsite,2024-12-06,2025-11-26,2,66500,26,3,Yes
+EMP-1929,Pranav Joshi,Bengaluru,Customer Support,Support Specialist,Onsite,2020-11-11,,4,37500,5,4,No
+EMP-1744,Harish Nair,Gurugram,Data & Analytics,Analytics Manager,Remote,2025-10-05,2026-04-29,1,120500,14,5,Yes
+EMP-1370,Kavitha Sharma,Chennai,Engineering,Software Engineer,Onsite,2023-09-04,2025-11-23,2,145500,6,4,Yes
+EMP-1879,Divya Mehta,Pune,Engineering,Software Engineer,Remote,2022-03-04,,1,100500,0,3,No
+EMP-1893,Suresh Subramanian,Bengaluru,Engineering,Software Engineer, remote,2024-01-30,,3,68000,17,3,No
+EMP-1760,Gokul Banerjee,Chennai,Customer Support,Senior Support Analyst,Remote,2024-07-07,,1,65500,16,3,No
+EMP-1063,Priya Sen, hyderabad ,Data & Analytics,Data Analyst,Onsite,2023-05-15,,4,137500,4,4,No
+EMP-1746,Rahul Agarwal, pune ,Customer Support,Senior Support Analyst,Onsite,2022-03-06,,2,72500,21,5,No
+EMP-1149,Rohan Kulkarni,Bengaluru,Data & Analytics,Analytics Manager,Hybrid,2021-10-12,,1,79000,17,4,No
+EMP-1994,Ananya Nair,Pune,Customer Support,Team Lead,Hybrid,2024-12-04,,0,59500,3,5,No
+EMP-2084,Karthik Raman,Chennai,HR & Admin,HR Coordinator,Onsite,2020-09-24,,1,64500,4,3,No
+EMP-1968,Rahul Narayanan,Gurugram,Sales,Inside Sales Rep,Onsite,2019-12-11,,3,66000,2,5,No
+EMP-1243,Rahul Balaji, bengaluru ,Customer Support,Support Specialist,Onsite,2019-06-16,2026-08-26,3,70000,17,3,Yes
+EMP-2159,Kavitha Nair,Hyderabad,Operations,Operations Executive,Onsite,2020-09-23,2026-08-26,4,40500,3,2,Yes
+EMP-2066,Akash Menon,Chennai,HR & Admin,HRBP,Hybrid,2020-10-31,,0,44000,7,5,No
+EMP-2138,Vidya Patel,Hyderabad,Engineering,Software Engineer,Onsite,2024-07-10,,1,164500,7,3,No
+EMP-2143,Siddharth Mehta,Hyderabad,Data & Analytics,Senior Data Analyst,Hybrid,2020-03-03,,2,124000,16,2,No
+EMP-1888,Venkatesh Krishnan,Hyderabad,Customer Support,Senior Support Analyst,Onsite,2025-02-23,2026-04-28,0,45000,32,3,Yes
+EMP-2106,Vivek Kannan,Hyderabad,Customer Support,Support Specialist,Remote,2023-07-28,,3,33000,8,5,No
+EMP-1480,Pooja Menon,Bengaluru,Operations,Shift Lead,Onsite,2022-10-29,,0,82500,16,3,No
+EMP-2082,Pranav Hegde,Bengaluru,Operations,Operations Manager,Onsite,2024-07-15,,4,59000,8,3,No
+EMP-1032,Sanjay Reddy,Chennai,Data & Analytics,Data Analyst,Remote,2023-07-19,2025-12-05,4,78000,17,2,Yes
+EMP-1941,Ishita Raman,Pune,HR & Admin,Talent Acquisition Specialist,Hybrid,2020-07-18,2026-10-08,0,80000,26,5,Yes
